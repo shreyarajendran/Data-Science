@@ -1,0 +1,2194 @@
+Date,Product,Demand,Inventory,Price,Promotion,Festival,Temperature,Month,Weekday,Season
+2024-01-01,Saffron,40,310,521,0,0,24,1,Monday,Winter
+2024-01-02,Saffron,36,274,524,0,0,28,1,Tuesday,Winter
+2024-01-03,Saffron,52,222,601,1,0,20,1,Wednesday,Winter
+2024-01-04,Saffron,31,191,537,0,0,29,1,Thursday,Winter
+2024-01-05,Saffron,47,957,610,1,0,29,1,Friday,Winter
+2024-01-06,Saffron,51,906,498,0,0,27,1,Saturday,Winter
+2024-01-07,Saffron,43,863,513,0,0,20,1,Sunday,Winter
+2024-01-08,Saffron,52,811,522,1,0,24,1,Monday,Winter
+2024-01-09,Saffron,38,773,509,0,0,31,1,Tuesday,Winter
+2024-01-10,Saffron,59,714,502,1,0,19,1,Wednesday,Winter
+2024-01-11,Saffron,36,678,621,0,0,25,1,Thursday,Winter
+2024-01-12,Saffron,30,648,613,0,0,35,1,Friday,Winter
+2024-01-13,Saffron,50,598,503,0,0,27,1,Saturday,Winter
+2024-01-14,Saffron,42,556,493,0,0,19,1,Sunday,Winter
+2024-01-15,Saffron,33,523,463,0,0,33,1,Monday,Winter
+2024-01-16,Saffron,36,487,639,0,0,25,1,Tuesday,Winter
+2024-01-17,Saffron,55,432,560,1,0,30,1,Wednesday,Winter
+2024-01-18,Saffron,30,402,538,0,0,24,1,Thursday,Winter
+2024-01-19,Saffron,30,372,585,0,0,28,1,Friday,Winter
+2024-01-20,Saffron,42,330,612,0,0,18,1,Saturday,Winter
+2024-01-21,Saffron,71,259,477,1,0,24,1,Sunday,Winter
+2024-01-22,Saffron,54,205,482,1,0,33,1,Monday,Winter
+2024-01-23,Saffron,37,168,486,0,0,20,1,Tuesday,Winter
+2024-01-24,Saffron,35,859,484,0,0,18,1,Wednesday,Winter
+2024-01-25,Saffron,32,827,450,0,0,22,1,Thursday,Winter
+2024-01-26,Saffron,36,791,476,0,0,26,1,Friday,Winter
+2024-01-27,Saffron,49,742,512,0,0,24,1,Saturday,Winter
+2024-01-28,Saffron,41,701,600,0,0,24,1,Sunday,Winter
+2024-01-29,Saffron,40,661,478,0,0,21,1,Monday,Winter
+2024-01-30,Saffron,58,603,535,1,0,19,1,Tuesday,Winter
+2024-01-31,Saffron,38,565,583,0,0,29,1,Wednesday,Winter
+2024-02-01,Saffron,40,525,577,0,0,24,2,Thursday,Winter
+2024-02-02,Saffron,50,475,476,1,0,37,2,Friday,Winter
+2024-02-03,Saffron,51,424,649,0,0,26,2,Saturday,Winter
+2024-02-04,Saffron,51,373,621,0,0,32,2,Sunday,Winter
+2024-02-05,Saffron,37,336,629,0,0,34,2,Monday,Winter
+2024-02-06,Saffron,39,297,501,0,0,29,2,Tuesday,Winter
+2024-02-07,Saffron,31,266,580,0,0,34,2,Wednesday,Winter
+2024-02-08,Saffron,37,229,530,0,0,34,2,Thursday,Winter
+2024-02-09,Saffron,58,171,536,1,0,22,2,Friday,Winter
+2024-02-10,Saffron,39,849,502,0,0,29,2,Saturday,Winter
+2024-02-11,Saffron,46,803,632,0,0,28,2,Sunday,Winter
+2024-02-12,Saffron,30,773,487,0,0,22,2,Monday,Winter
+2024-02-13,Saffron,35,738,588,0,0,33,2,Tuesday,Winter
+2024-02-14,Saffron,38,700,573,0,0,23,2,Wednesday,Winter
+2024-02-15,Saffron,32,668,597,0,0,21,2,Thursday,Winter
+2024-02-16,Saffron,32,636,596,0,0,37,2,Friday,Winter
+2024-02-17,Saffron,44,592,617,0,0,24,2,Saturday,Winter
+2024-02-18,Saffron,69,523,627,1,0,27,2,Sunday,Winter
+2024-02-19,Saffron,39,484,561,0,0,37,2,Monday,Winter
+2024-02-20,Saffron,31,453,578,0,0,33,2,Tuesday,Winter
+2024-02-21,Saffron,50,403,609,1,0,26,2,Wednesday,Winter
+2024-02-22,Saffron,32,371,497,0,0,33,2,Thursday,Winter
+2024-02-23,Saffron,54,317,569,1,0,18,2,Friday,Winter
+2024-02-24,Saffron,64,253,613,1,0,23,2,Saturday,Winter
+2024-02-25,Saffron,47,206,561,0,0,20,2,Sunday,Winter
+2024-02-26,Saffron,44,162,643,1,0,20,2,Monday,Winter
+2024-02-27,Saffron,38,912,610,0,0,21,2,Tuesday,Winter
+2024-02-28,Saffron,33,879,577,0,0,25,2,Wednesday,Winter
+2024-02-29,Saffron,42,837,625,1,0,29,2,Thursday,Winter
+2024-03-01,Saffron,35,802,568,0,0,31,3,Friday,Summer
+2024-03-02,Saffron,62,740,457,1,0,19,3,Saturday,Summer
+2024-03-03,Saffron,42,698,646,0,0,33,3,Sunday,Summer
+2024-03-04,Saffron,32,666,641,0,0,34,3,Monday,Summer
+2024-03-05,Saffron,34,632,455,0,0,20,3,Tuesday,Summer
+2024-03-06,Saffron,34,598,473,0,0,34,3,Wednesday,Summer
+2024-03-07,Saffron,32,566,637,0,0,18,3,Thursday,Summer
+2024-03-08,Saffron,34,532,609,0,0,18,3,Friday,Summer
+2024-03-09,Saffron,48,484,503,0,0,20,3,Saturday,Summer
+2024-03-10,Saffron,46,438,481,0,0,32,3,Sunday,Summer
+2024-03-11,Saffron,53,385,579,1,0,34,3,Monday,Summer
+2024-03-12,Saffron,60,325,625,1,0,24,3,Tuesday,Summer
+2024-03-13,Saffron,36,289,475,0,0,20,3,Wednesday,Summer
+2024-03-14,Saffron,37,252,462,0,0,24,3,Thursday,Summer
+2024-03-15,Saffron,33,219,514,0,0,25,3,Friday,Summer
+2024-03-16,Saffron,41,178,515,0,0,36,3,Saturday,Summer
+2024-03-17,Saffron,51,806,507,0,0,34,3,Sunday,Summer
+2024-03-18,Saffron,35,771,637,0,0,22,3,Monday,Summer
+2024-03-19,Saffron,34,737,509,0,0,29,3,Tuesday,Summer
+2024-03-20,Saffron,51,686,455,1,0,30,3,Wednesday,Summer
+2024-03-21,Saffron,32,654,504,0,0,25,3,Thursday,Summer
+2024-03-22,Saffron,31,623,573,0,0,27,3,Friday,Summer
+2024-03-23,Saffron,42,581,541,0,0,22,3,Saturday,Summer
+2024-03-24,Saffron,73,508,589,1,0,18,3,Sunday,Summer
+2024-03-25,Saffron,30,478,483,0,0,33,3,Monday,Summer
+2024-03-26,Saffron,34,444,578,0,0,33,3,Tuesday,Summer
+2024-03-27,Saffron,34,410,471,0,0,20,3,Wednesday,Summer
+2024-03-28,Saffron,32,378,535,0,0,31,3,Thursday,Summer
+2024-03-29,Saffron,30,348,543,0,0,31,3,Friday,Summer
+2024-03-30,Saffron,50,298,625,0,0,24,3,Saturday,Summer
+2024-03-31,Saffron,45,253,472,0,0,27,3,Sunday,Summer
+2024-04-01,Saffron,46,207,629,1,0,27,4,Monday,Summer
+2024-04-02,Saffron,39,168,545,0,0,18,4,Tuesday,Summer
+2024-04-03,Saffron,33,881,465,0,0,33,4,Wednesday,Summer
+2024-04-04,Saffron,63,818,533,1,0,29,4,Thursday,Summer
+2024-04-05,Saffron,30,788,610,0,0,36,4,Friday,Summer
+2024-04-06,Saffron,42,746,610,0,0,25,4,Saturday,Summer
+2024-04-07,Saffron,48,698,484,0,0,34,4,Sunday,Summer
+2024-04-08,Saffron,39,659,539,0,0,19,4,Monday,Summer
+2024-04-09,Saffron,36,623,645,0,0,35,4,Tuesday,Summer
+2024-04-10,Saffron,37,586,613,0,0,21,4,Wednesday,Summer
+2024-04-11,Saffron,38,548,601,0,0,20,4,Thursday,Summer
+2024-04-12,Saffron,46,502,545,1,0,22,4,Friday,Summer
+2024-04-13,Saffron,44,458,548,0,0,26,4,Saturday,Summer
+2024-04-14,Saffron,41,417,561,0,0,30,4,Sunday,Summer
+2024-04-15,Saffron,45,372,589,1,0,26,4,Monday,Summer
+2024-04-16,Saffron,56,316,477,1,0,31,4,Tuesday,Summer
+2024-04-17,Saffron,33,283,532,0,0,32,4,Wednesday,Summer
+2024-04-18,Saffron,34,249,548,0,0,29,4,Thursday,Summer
+2024-04-19,Saffron,40,209,502,0,0,33,4,Friday,Summer
+2024-04-20,Saffron,50,159,491,0,0,24,4,Saturday,Summer
+2024-04-21,Saffron,53,844,524,0,0,35,4,Sunday,Summer
+2024-04-22,Saffron,39,805,635,0,0,29,4,Monday,Summer
+2024-04-23,Saffron,53,752,623,1,0,30,4,Tuesday,Summer
+2024-04-24,Saffron,38,714,627,0,0,19,4,Wednesday,Summer
+2024-04-25,Saffron,34,680,615,0,0,36,4,Thursday,Summer
+2024-04-26,Saffron,30,650,535,0,0,37,4,Friday,Summer
+2024-04-27,Saffron,61,589,485,1,0,23,4,Saturday,Summer
+2024-04-28,Saffron,45,544,616,0,0,27,4,Sunday,Summer
+2024-04-29,Saffron,50,494,622,1,0,30,4,Monday,Summer
+2024-04-30,Saffron,39,455,597,0,0,25,4,Tuesday,Summer
+2024-05-01,Saffron,38,417,616,0,0,18,5,Wednesday,Summer
+2024-05-02,Saffron,38,379,640,0,0,34,5,Thursday,Summer
+2024-05-03,Saffron,30,349,615,0,0,23,5,Friday,Summer
+2024-05-04,Saffron,51,298,529,0,0,28,5,Saturday,Summer
+2024-05-05,Saffron,44,254,469,0,0,35,5,Sunday,Summer
+2024-05-06,Saffron,30,224,463,0,0,32,5,Monday,Summer
+2024-05-07,Saffron,34,190,503,0,0,20,5,Tuesday,Summer
+2024-05-08,Saffron,60,853,461,1,0,27,5,Wednesday,Summer
+2024-05-09,Saffron,35,818,601,0,0,25,5,Thursday,Summer
+2024-05-10,Saffron,33,785,539,0,0,25,5,Friday,Summer
+2024-05-11,Saffron,51,734,490,0,0,21,5,Saturday,Summer
+2024-05-12,Saffron,51,683,610,0,0,37,5,Sunday,Summer
+2024-05-13,Saffron,32,651,583,0,0,35,5,Monday,Summer
+2024-05-14,Saffron,34,617,496,0,0,19,5,Tuesday,Summer
+2024-05-15,Saffron,31,586,558,0,0,22,5,Wednesday,Summer
+2024-05-16,Saffron,30,556,567,0,0,18,5,Thursday,Summer
+2024-05-17,Saffron,30,526,460,0,0,34,5,Friday,Summer
+2024-05-18,Saffron,40,486,578,0,0,33,5,Saturday,Summer
+2024-05-19,Saffron,60,426,544,1,0,22,5,Sunday,Summer
+2024-05-20,Saffron,52,374,502,1,0,22,5,Monday,Summer
+2024-05-21,Saffron,32,342,594,0,0,31,5,Tuesday,Summer
+2024-05-22,Saffron,30,312,500,0,0,30,5,Wednesday,Summer
+2024-05-23,Saffron,30,282,562,0,0,25,5,Thursday,Summer
+2024-05-24,Saffron,37,245,488,0,0,19,5,Friday,Summer
+2024-05-25,Saffron,53,192,499,0,0,29,5,Saturday,Summer
+2024-05-26,Saffron,42,150,506,0,0,34,5,Sunday,Summer
+2024-05-27,Saffron,36,679,534,0,0,31,5,Monday,Summer
+2024-05-28,Saffron,53,626,641,1,0,19,5,Tuesday,Summer
+2024-05-29,Saffron,31,595,531,0,0,32,5,Wednesday,Summer
+2024-05-30,Saffron,31,564,501,0,0,23,5,Thursday,Summer
+2024-05-31,Saffron,36,528,555,0,0,36,5,Friday,Summer
+2024-06-01,Saffron,62,466,633,1,0,34,6,Saturday,Monsoon
+2024-06-02,Saffron,50,416,518,0,0,19,6,Sunday,Monsoon
+2024-06-03,Saffron,31,385,575,0,0,28,6,Monday,Monsoon
+2024-06-04,Saffron,40,345,564,0,0,32,6,Tuesday,Monsoon
+2024-06-05,Saffron,36,309,529,0,0,28,6,Wednesday,Monsoon
+2024-06-06,Saffron,37,272,581,0,0,25,6,Thursday,Monsoon
+2024-06-07,Saffron,38,234,644,0,0,20,6,Friday,Monsoon
+2024-06-08,Saffron,41,193,596,0,0,22,6,Saturday,Monsoon
+2024-06-09,Saffron,44,649,598,0,0,23,6,Sunday,Monsoon
+2024-06-10,Saffron,39,610,495,0,0,19,6,Monday,Monsoon
+2024-06-11,Saffron,39,571,494,0,0,26,6,Tuesday,Monsoon
+2024-06-12,Saffron,38,533,505,0,0,28,6,Wednesday,Monsoon
+2024-06-13,Saffron,54,479,475,1,0,21,6,Thursday,Monsoon
+2024-06-14,Saffron,44,435,629,1,0,32,6,Friday,Monsoon
+2024-06-15,Saffron,54,381,477,0,0,31,6,Saturday,Monsoon
+2024-06-16,Saffron,54,327,463,0,0,36,6,Sunday,Monsoon
+2024-06-17,Saffron,36,291,556,0,0,32,6,Monday,Monsoon
+2024-06-18,Saffron,31,260,487,0,0,20,6,Tuesday,Monsoon
+2024-06-19,Saffron,38,222,568,0,0,22,6,Wednesday,Monsoon
+2024-06-20,Saffron,36,186,634,0,0,34,6,Thursday,Monsoon
+2024-06-21,Saffron,39,671,575,0,0,29,6,Friday,Monsoon
+2024-06-22,Saffron,46,625,517,0,0,27,6,Saturday,Monsoon
+2024-06-23,Saffron,41,584,560,0,0,21,6,Sunday,Monsoon
+2024-06-24,Saffron,31,553,560,0,0,25,6,Monday,Monsoon
+2024-06-25,Saffron,32,521,491,0,0,26,6,Tuesday,Monsoon
+2024-06-26,Saffron,33,488,475,0,0,19,6,Wednesday,Monsoon
+2024-06-27,Saffron,40,448,558,0,0,23,6,Thursday,Monsoon
+2024-06-28,Saffron,30,418,630,0,0,23,6,Friday,Monsoon
+2024-06-29,Saffron,46,372,543,0,0,28,6,Saturday,Monsoon
+2024-06-30,Saffron,65,307,480,1,0,25,6,Sunday,Monsoon
+2024-07-01,Saffron,37,270,455,0,0,19,7,Monday,Monsoon
+2024-07-02,Saffron,40,230,453,0,0,32,7,Tuesday,Monsoon
+2024-07-03,Saffron,49,181,628,1,0,19,7,Wednesday,Monsoon
+2024-07-04,Saffron,37,816,475,0,0,36,7,Thursday,Monsoon
+2024-07-05,Saffron,35,781,603,0,0,21,7,Friday,Monsoon
+2024-07-06,Saffron,43,738,562,0,0,29,7,Saturday,Monsoon
+2024-07-07,Saffron,43,695,486,0,0,28,7,Sunday,Monsoon
+2024-07-08,Saffron,64,631,452,1,0,18,7,Monday,Monsoon
+2024-07-09,Saffron,37,594,459,0,0,22,7,Tuesday,Monsoon
+2024-07-10,Saffron,31,563,462,0,0,25,7,Wednesday,Monsoon
+2024-07-11,Saffron,46,517,522,1,0,34,7,Thursday,Monsoon
+2024-07-12,Saffron,37,480,487,0,0,20,7,Friday,Monsoon
+2024-07-13,Saffron,62,418,527,1,0,28,7,Saturday,Monsoon
+2024-07-14,Saffron,48,370,484,0,0,18,7,Sunday,Monsoon
+2024-07-15,Saffron,35,335,509,0,0,25,7,Monday,Monsoon
+2024-07-16,Saffron,48,287,614,1,0,22,7,Tuesday,Monsoon
+2024-07-17,Saffron,39,248,511,0,0,21,7,Wednesday,Monsoon
+2024-07-18,Saffron,39,209,538,0,0,35,7,Thursday,Monsoon
+2024-07-19,Saffron,55,154,463,1,0,36,7,Friday,Monsoon
+2024-07-20,Saffron,43,835,602,0,0,34,7,Saturday,Monsoon
+2024-07-21,Saffron,48,787,553,0,0,25,7,Sunday,Monsoon
+2024-07-22,Saffron,32,755,647,0,0,23,7,Monday,Monsoon
+2024-07-23,Saffron,32,723,649,0,0,27,7,Tuesday,Monsoon
+2024-07-24,Saffron,30,693,604,0,0,21,7,Wednesday,Monsoon
+2024-07-25,Saffron,50,643,604,1,0,18,7,Thursday,Monsoon
+2024-07-26,Saffron,35,608,515,0,0,27,7,Friday,Monsoon
+2024-07-27,Saffron,59,549,487,1,0,30,7,Saturday,Monsoon
+2024-07-28,Saffron,44,505,633,0,0,32,7,Sunday,Monsoon
+2024-07-29,Saffron,34,471,606,0,0,32,7,Monday,Monsoon
+2024-07-30,Saffron,31,440,604,0,0,36,7,Tuesday,Monsoon
+2024-07-31,Saffron,33,407,475,0,0,28,7,Wednesday,Monsoon
+2024-08-01,Saffron,33,374,460,0,0,27,8,Thursday,Monsoon
+2024-08-02,Saffron,35,339,649,0,0,32,8,Friday,Monsoon
+2024-08-03,Saffron,79,260,590,1,0,25,8,Saturday,Monsoon
+2024-08-04,Saffron,46,214,509,0,0,28,8,Sunday,Monsoon
+2024-08-05,Saffron,48,166,582,1,0,22,8,Monday,Monsoon
+2024-08-06,Saffron,39,677,541,0,0,26,8,Tuesday,Monsoon
+2024-08-07,Saffron,37,640,490,0,0,28,8,Wednesday,Monsoon
+2024-08-08,Saffron,34,606,598,0,0,31,8,Thursday,Monsoon
+2024-08-09,Saffron,36,570,506,0,0,18,8,Friday,Monsoon
+2024-08-10,Saffron,50,520,592,0,0,32,8,Saturday,Monsoon
+2024-08-11,Saffron,55,465,629,0,0,26,8,Sunday,Monsoon
+2024-08-12,Saffron,33,432,474,0,0,28,8,Monday,Monsoon
+2024-08-13,Saffron,49,383,611,1,0,34,8,Tuesday,Monsoon
+2024-08-14,Saffron,40,343,557,0,0,36,8,Wednesday,Monsoon
+2024-08-15,Saffron,38,305,648,0,0,37,8,Thursday,Monsoon
+2024-08-16,Saffron,37,268,610,0,0,34,8,Friday,Monsoon
+2024-08-17,Saffron,44,224,498,0,0,24,8,Saturday,Monsoon
+2024-08-18,Saffron,53,171,567,1,0,25,8,Sunday,Monsoon
+2024-08-19,Saffron,30,1019,590,0,0,36,8,Monday,Monsoon
+2024-08-20,Saffron,30,989,622,0,0,33,8,Tuesday,Monsoon
+2024-08-21,Saffron,31,958,450,0,0,31,8,Wednesday,Monsoon
+2024-08-22,Saffron,31,927,643,0,0,34,8,Thursday,Monsoon
+2024-08-23,Saffron,35,892,628,0,0,21,8,Friday,Monsoon
+2024-08-24,Saffron,44,848,552,0,0,20,8,Saturday,Monsoon
+2024-08-25,Saffron,48,800,573,0,0,18,8,Sunday,Monsoon
+2024-08-26,Saffron,31,769,584,0,0,25,8,Monday,Monsoon
+2024-08-27,Saffron,36,733,516,0,0,25,8,Tuesday,Monsoon
+2024-08-28,Saffron,34,699,516,0,0,36,8,Wednesday,Monsoon
+2024-08-29,Saffron,37,662,611,0,0,20,8,Thursday,Monsoon
+2024-08-30,Saffron,37,625,495,0,0,28,8,Friday,Monsoon
+2024-08-31,Saffron,62,563,591,1,0,33,8,Saturday,Monsoon
+2024-09-01,Saffron,45,518,610,0,0,36,9,Sunday,Autumn
+2024-09-02,Saffron,32,486,485,0,0,35,9,Monday,Autumn
+2024-09-03,Saffron,49,437,460,1,0,27,9,Tuesday,Autumn
+2024-09-04,Saffron,50,387,568,1,0,29,9,Wednesday,Autumn
+2024-09-05,Saffron,51,336,586,1,0,19,9,Thursday,Autumn
+2024-09-06,Saffron,47,289,535,1,0,29,9,Friday,Autumn
+2024-09-07,Saffron,52,237,508,0,0,31,9,Saturday,Autumn
+2024-09-08,Saffron,44,193,563,0,0,36,9,Sunday,Autumn
+2024-09-09,Saffron,38,155,489,0,0,19,9,Monday,Autumn
+2024-09-10,Saffron,36,622,471,0,0,28,9,Tuesday,Autumn
+2024-09-11,Saffron,31,591,486,0,0,28,9,Wednesday,Autumn
+2024-09-12,Saffron,55,536,549,1,0,26,9,Thursday,Autumn
+2024-09-13,Saffron,30,506,614,0,0,23,9,Friday,Autumn
+2024-09-14,Saffron,51,455,555,0,0,23,9,Saturday,Autumn
+2024-09-15,Saffron,53,402,502,0,0,24,9,Sunday,Autumn
+2024-09-16,Saffron,30,372,603,0,0,31,9,Monday,Autumn
+2024-09-17,Saffron,35,337,556,0,0,18,9,Tuesday,Autumn
+2024-09-18,Saffron,33,304,564,0,0,28,9,Wednesday,Autumn
+2024-09-19,Saffron,33,271,562,0,0,24,9,Thursday,Autumn
+2024-09-20,Saffron,35,236,547,0,0,32,9,Friday,Autumn
+2024-09-21,Saffron,68,168,482,1,0,21,9,Saturday,Autumn
+2024-09-22,Saffron,44,824,530,0,0,30,9,Sunday,Autumn
+2024-09-23,Saffron,34,790,522,0,0,26,9,Monday,Autumn
+2024-09-24,Saffron,30,760,510,0,0,28,9,Tuesday,Autumn
+2024-09-25,Saffron,38,722,488,0,0,20,9,Wednesday,Autumn
+2024-09-26,Saffron,48,674,551,1,0,19,9,Thursday,Autumn
+2024-09-27,Saffron,34,640,493,0,0,34,9,Friday,Autumn
+2024-09-28,Saffron,56,584,496,1,0,29,9,Saturday,Autumn
+2024-09-29,Saffron,49,535,530,0,0,22,9,Sunday,Autumn
+2024-09-30,Saffron,35,500,649,0,0,35,9,Monday,Autumn
+2024-10-01,Saffron,91,409,558,0,1,32,10,Tuesday,Autumn
+2024-10-02,Saffron,78,331,475,0,1,24,10,Wednesday,Autumn
+2024-10-03,Saffron,90,241,564,0,1,33,10,Thursday,Autumn
+2024-10-04,Saffron,92,751,616,1,1,20,10,Friday,Autumn
+2024-10-05,Saffron,87,664,580,0,1,22,10,Saturday,Autumn
+2024-10-06,Saffron,96,568,453,0,1,30,10,Sunday,Autumn
+2024-10-07,Saffron,91,477,619,1,1,19,10,Monday,Autumn
+2024-10-08,Saffron,87,390,488,0,1,31,10,Tuesday,Autumn
+2024-10-09,Saffron,91,299,465,0,1,29,10,Wednesday,Autumn
+2024-10-10,Saffron,91,208,533,0,1,22,10,Thursday,Autumn
+2024-10-11,Saffron,72,959,607,0,1,35,10,Friday,Autumn
+2024-10-12,Saffron,80,879,522,0,1,32,10,Saturday,Autumn
+2024-10-13,Saffron,87,792,510,0,1,22,10,Sunday,Autumn
+2024-10-14,Saffron,86,706,512,0,1,31,10,Monday,Autumn
+2024-10-15,Saffron,100,606,501,1,1,21,10,Tuesday,Autumn
+2024-10-16,Saffron,93,513,559,1,1,27,10,Wednesday,Autumn
+2024-10-17,Saffron,90,423,452,0,1,23,10,Thursday,Autumn
+2024-10-18,Saffron,73,350,458,0,1,20,10,Friday,Autumn
+2024-10-19,Saffron,101,249,627,0,1,35,10,Saturday,Autumn
+2024-10-20,Saffron,105,1041,522,1,1,21,10,Sunday,Autumn
+2024-10-21,Saffron,82,959,516,0,1,26,10,Monday,Autumn
+2024-10-22,Saffron,105,854,489,1,1,22,10,Tuesday,Autumn
+2024-10-23,Saffron,85,769,521,0,1,22,10,Wednesday,Autumn
+2024-10-24,Saffron,87,682,509,0,1,33,10,Thursday,Autumn
+2024-10-25,Saffron,100,582,489,1,1,30,10,Friday,Autumn
+2024-10-26,Saffron,83,499,540,0,1,30,10,Saturday,Autumn
+2024-10-27,Saffron,83,416,508,0,1,33,10,Sunday,Autumn
+2024-10-28,Saffron,83,333,619,0,1,21,10,Monday,Autumn
+2024-10-29,Saffron,82,251,494,0,1,36,10,Tuesday,Autumn
+2024-10-30,Saffron,82,169,608,0,1,35,10,Wednesday,Autumn
+2024-10-31,Saffron,73,750,462,0,1,31,10,Thursday,Autumn
+2024-11-01,Saffron,87,663,637,0,1,30,11,Friday,Autumn
+2024-11-02,Saffron,103,560,512,0,1,32,11,Saturday,Autumn
+2024-11-03,Saffron,82,478,517,0,1,34,11,Sunday,Autumn
+2024-11-04,Saffron,88,390,642,0,1,35,11,Monday,Autumn
+2024-11-05,Saffron,113,277,629,1,1,29,11,Tuesday,Autumn
+2024-11-06,Saffron,74,203,560,0,1,32,11,Wednesday,Autumn
+2024-11-07,Saffron,83,904,623,0,1,19,11,Thursday,Autumn
+2024-11-08,Saffron,80,824,464,0,1,28,11,Friday,Autumn
+2024-11-09,Saffron,83,741,476,0,1,20,11,Saturday,Autumn
+2024-11-10,Saffron,90,651,636,0,1,37,11,Sunday,Autumn
+2024-11-11,Saffron,74,577,450,0,1,23,11,Monday,Autumn
+2024-11-12,Saffron,79,498,474,0,1,29,11,Tuesday,Autumn
+2024-11-13,Saffron,92,406,594,0,1,25,11,Wednesday,Autumn
+2024-11-14,Saffron,81,325,648,0,1,20,11,Thursday,Autumn
+2024-11-15,Saffron,85,240,597,0,1,31,11,Friday,Autumn
+2024-11-16,Saffron,98,960,458,0,1,23,11,Saturday,Autumn
+2024-11-17,Saffron,84,876,470,0,1,35,11,Sunday,Autumn
+2024-11-18,Saffron,101,775,551,1,1,26,11,Monday,Autumn
+2024-11-19,Saffron,79,696,490,0,1,34,11,Tuesday,Autumn
+2024-11-20,Saffron,99,597,610,1,1,27,11,Wednesday,Autumn
+2024-11-21,Saffron,71,526,482,0,1,26,11,Thursday,Autumn
+2024-11-22,Saffron,87,439,599,0,1,24,11,Friday,Autumn
+2024-11-23,Saffron,87,352,592,0,1,19,11,Saturday,Autumn
+2024-11-24,Saffron,103,249,583,0,1,26,11,Sunday,Autumn
+2024-11-25,Saffron,77,172,457,0,1,25,11,Monday,Autumn
+2024-11-26,Saffron,101,697,583,1,1,20,11,Tuesday,Autumn
+2024-11-27,Saffron,77,620,461,0,1,29,11,Wednesday,Autumn
+2024-11-28,Saffron,86,534,596,0,1,31,11,Thursday,Autumn
+2024-11-29,Saffron,76,458,632,0,1,36,11,Friday,Autumn
+2024-11-30,Saffron,86,372,545,0,1,26,11,Saturday,Autumn
+2024-12-01,Saffron,42,330,484,0,0,32,12,Sunday,Winter
+2024-12-02,Saffron,30,300,543,0,0,37,12,Monday,Winter
+2024-12-03,Saffron,33,267,637,0,0,35,12,Tuesday,Winter
+2024-12-04,Saffron,53,214,566,1,0,19,12,Wednesday,Winter
+2024-12-05,Saffron,31,183,528,0,0,19,12,Thursday,Winter
+2024-12-06,Saffron,36,1017,619,0,0,36,12,Friday,Winter
+2024-12-07,Saffron,72,945,467,1,0,25,12,Saturday,Winter
+2024-12-08,Saffron,44,901,475,0,0,25,12,Sunday,Winter
+2024-12-09,Saffron,36,865,491,0,0,29,12,Monday,Winter
+2024-12-10,Saffron,31,834,568,0,0,22,12,Tuesday,Winter
+2024-12-11,Saffron,62,772,511,1,0,32,12,Wednesday,Winter
+2024-12-12,Saffron,36,736,533,0,0,19,12,Thursday,Winter
+2024-12-13,Saffron,30,706,572,0,0,19,12,Friday,Winter
+2024-12-14,Saffron,40,666,617,0,0,29,12,Saturday,Winter
+2024-12-15,Saffron,51,615,496,0,0,28,12,Sunday,Winter
+2024-12-16,Saffron,56,559,542,1,0,27,12,Monday,Winter
+2024-12-17,Saffron,38,521,450,0,0,22,12,Tuesday,Winter
+2024-12-18,Saffron,40,481,450,0,0,37,12,Wednesday,Winter
+2024-12-19,Saffron,40,441,614,0,0,32,12,Thursday,Winter
+2024-12-20,Saffron,34,407,498,0,0,34,12,Friday,Winter
+2024-12-21,Saffron,73,334,557,1,0,37,12,Saturday,Winter
+2024-12-22,Saffron,63,271,469,1,0,18,12,Sunday,Winter
+2024-12-23,Saffron,35,236,508,0,0,22,12,Monday,Winter
+2024-12-24,Saffron,32,204,461,0,0,27,12,Tuesday,Winter
+2024-12-25,Saffron,31,173,492,0,0,19,12,Wednesday,Winter
+2024-12-26,Saffron,38,812,488,0,0,32,12,Thursday,Winter
+2024-12-27,Saffron,35,777,533,0,0,30,12,Friday,Winter
+2024-12-28,Saffron,50,727,573,0,0,25,12,Saturday,Winter
+2024-12-29,Saffron,45,682,457,0,0,23,12,Sunday,Winter
+2024-12-30,Saffron,48,634,642,1,0,28,12,Monday,Winter
+2024-12-31,Saffron,31,603,594,0,0,25,12,Tuesday,Winter
+2025-01-01,Saffron,52,551,521,1,0,31,1,Wednesday,Winter
+2025-01-02,Saffron,44,507,480,1,0,33,1,Thursday,Winter
+2025-01-03,Saffron,54,453,539,1,0,19,1,Friday,Winter
+2025-01-04,Saffron,47,406,610,0,0,26,1,Saturday,Winter
+2025-01-05,Saffron,70,336,526,1,0,26,1,Sunday,Winter
+2025-01-06,Saffron,31,305,574,0,0,23,1,Monday,Winter
+2025-01-07,Saffron,35,270,468,0,0,23,1,Tuesday,Winter
+2025-01-08,Saffron,62,208,472,1,0,36,1,Wednesday,Winter
+2025-01-09,Saffron,49,159,503,1,0,24,1,Thursday,Winter
+2025-01-10,Saffron,30,771,525,0,0,24,1,Friday,Winter
+2025-01-11,Saffron,50,721,610,0,0,34,1,Saturday,Winter
+2025-01-12,Saffron,43,678,460,0,0,20,1,Sunday,Winter
+2025-01-13,Saffron,39,639,643,0,0,31,1,Monday,Winter
+2025-01-14,Saffron,34,605,475,0,0,25,1,Tuesday,Winter
+2025-01-15,Saffron,35,570,605,0,0,29,1,Wednesday,Winter
+2025-01-16,Saffron,34,536,493,0,0,21,1,Thursday,Winter
+2025-01-17,Saffron,36,500,519,0,0,31,1,Friday,Winter
+2025-01-18,Saffron,49,451,470,0,0,28,1,Saturday,Winter
+2025-01-19,Saffron,68,383,485,1,0,28,1,Sunday,Winter
+2025-01-20,Saffron,33,350,470,0,0,30,1,Monday,Winter
+2025-01-21,Saffron,31,319,527,0,0,21,1,Tuesday,Winter
+2025-01-22,Saffron,33,286,476,0,0,32,1,Wednesday,Winter
+2025-01-23,Saffron,37,249,593,0,0,27,1,Thursday,Winter
+2025-01-24,Saffron,31,218,451,0,0,34,1,Friday,Winter
+2025-01-25,Saffron,69,722,544,1,0,29,1,Saturday,Winter
+2025-01-26,Saffron,50,672,640,0,0,34,1,Sunday,Winter
+2025-01-27,Saffron,39,633,633,0,0,21,1,Monday,Winter
+2025-01-28,Saffron,35,598,456,0,0,18,1,Tuesday,Winter
+2025-01-29,Saffron,39,559,496,0,0,30,1,Wednesday,Winter
+2025-01-30,Saffron,35,524,470,0,0,26,1,Thursday,Winter
+2025-01-31,Saffron,39,485,571,0,0,27,1,Friday,Winter
+2025-02-01,Saffron,45,440,603,0,0,22,2,Saturday,Winter
+2025-02-02,Saffron,43,397,549,0,0,24,2,Sunday,Winter
+2025-02-03,Saffron,31,366,596,0,0,21,2,Monday,Winter
+2025-02-04,Saffron,36,330,518,0,0,32,2,Tuesday,Winter
+2025-02-05,Saffron,31,299,610,0,0,34,2,Wednesday,Winter
+2025-02-06,Saffron,34,265,592,0,0,20,2,Thursday,Winter
+2025-02-07,Saffron,40,225,587,0,0,26,2,Friday,Winter
+2025-02-08,Saffron,47,178,513,0,0,20,2,Saturday,Winter
+2025-02-09,Saffron,46,872,491,0,0,24,2,Sunday,Winter
+2025-02-10,Saffron,37,835,637,0,0,31,2,Monday,Winter
+2025-02-11,Saffron,39,796,551,0,0,27,2,Tuesday,Winter
+2025-02-12,Saffron,57,739,546,1,0,21,2,Wednesday,Winter
+2025-02-13,Saffron,37,702,546,0,0,23,2,Thursday,Winter
+2025-02-14,Saffron,33,669,462,0,0,34,2,Friday,Winter
+2025-02-15,Saffron,49,620,609,0,0,25,2,Saturday,Winter
+2025-02-16,Saffron,45,575,493,0,0,20,2,Sunday,Winter
+2025-02-17,Saffron,31,544,621,0,0,19,2,Monday,Winter
+2025-02-18,Saffron,32,512,547,0,0,37,2,Tuesday,Winter
+2025-02-19,Saffron,39,473,485,0,0,22,2,Wednesday,Winter
+2025-02-20,Saffron,38,435,504,0,0,33,2,Thursday,Winter
+2025-02-21,Saffron,38,397,504,0,0,33,2,Friday,Winter
+2025-02-22,Saffron,45,352,452,0,0,33,2,Saturday,Winter
+2025-02-23,Saffron,51,301,567,0,0,22,2,Sunday,Winter
+2025-02-24,Saffron,37,264,557,0,0,18,2,Monday,Winter
+2025-02-25,Saffron,49,215,647,1,0,35,2,Tuesday,Winter
+2025-02-26,Saffron,30,185,465,0,0,29,2,Wednesday,Winter
+2025-02-27,Saffron,31,154,591,0,0,21,2,Thursday,Winter
+2025-02-28,Saffron,31,963,515,0,0,26,2,Friday,Winter
+2025-03-01,Saffron,59,904,524,1,0,20,3,Saturday,Summer
+2025-03-02,Saffron,50,854,645,0,0,35,3,Sunday,Summer
+2025-03-03,Saffron,32,822,599,0,0,28,3,Monday,Summer
+2025-03-04,Saffron,34,788,461,0,0,32,3,Tuesday,Summer
+2025-03-05,Saffron,35,753,531,0,0,30,3,Wednesday,Summer
+2025-03-06,Saffron,37,716,607,0,0,31,3,Thursday,Summer
+2025-03-07,Saffron,51,665,463,1,0,26,3,Friday,Summer
+2025-03-08,Saffron,52,613,579,0,0,20,3,Saturday,Summer
+2025-03-09,Saffron,61,552,474,1,0,19,3,Sunday,Summer
+2025-03-10,Saffron,35,517,482,0,0,21,3,Monday,Summer
+2025-03-11,Saffron,30,487,559,0,0,33,3,Tuesday,Summer
+2025-03-12,Saffron,33,454,580,0,0,20,3,Wednesday,Summer
+2025-03-13,Saffron,38,416,590,0,0,19,3,Thursday,Summer
+2025-03-14,Saffron,31,385,645,0,0,32,3,Friday,Summer
+2025-03-15,Saffron,44,341,595,0,0,23,3,Saturday,Summer
+2025-03-16,Saffron,41,300,480,0,0,36,3,Sunday,Summer
+2025-03-17,Saffron,31,269,459,0,0,19,3,Monday,Summer
+2025-03-18,Saffron,31,238,608,0,0,32,3,Tuesday,Summer
+2025-03-19,Saffron,52,186,548,1,0,26,3,Wednesday,Summer
+2025-03-20,Saffron,32,154,456,0,0,33,3,Thursday,Summer
+2025-03-21,Saffron,30,726,453,0,0,21,3,Friday,Summer
+2025-03-22,Saffron,66,660,501,1,0,21,3,Saturday,Summer
+2025-03-23,Saffron,47,613,565,0,0,20,3,Sunday,Summer
+2025-03-24,Saffron,35,578,463,0,0,24,3,Monday,Summer
+2025-03-25,Saffron,35,543,582,0,0,19,3,Tuesday,Summer
+2025-03-26,Saffron,34,509,528,0,0,27,3,Wednesday,Summer
+2025-03-27,Saffron,37,472,616,0,0,22,3,Thursday,Summer
+2025-03-28,Saffron,34,438,630,0,0,35,3,Friday,Summer
+2025-03-29,Saffron,57,381,637,1,0,28,3,Saturday,Summer
+2025-03-30,Saffron,64,317,475,1,0,21,3,Sunday,Summer
+2025-03-31,Saffron,54,263,629,1,0,23,3,Monday,Summer
+2025-04-01,Saffron,39,224,590,0,0,34,4,Tuesday,Summer
+2025-04-02,Saffron,49,175,586,1,0,26,4,Wednesday,Summer
+2025-04-03,Saffron,30,958,459,0,0,35,4,Thursday,Summer
+2025-04-04,Saffron,37,921,470,0,0,28,4,Friday,Summer
+2025-04-05,Saffron,54,867,649,0,0,34,4,Saturday,Summer
+2025-04-06,Saffron,45,822,622,0,0,36,4,Sunday,Summer
+2025-04-07,Saffron,30,792,536,0,0,22,4,Monday,Summer
+2025-04-08,Saffron,37,755,536,0,0,28,4,Tuesday,Summer
+2025-04-09,Saffron,32,723,601,0,0,20,4,Wednesday,Summer
+2025-04-10,Saffron,34,689,597,0,0,25,4,Thursday,Summer
+2025-04-11,Saffron,33,656,588,0,0,37,4,Friday,Summer
+2025-04-12,Saffron,42,614,635,0,0,22,4,Saturday,Summer
+2025-04-13,Saffron,49,565,513,0,0,27,4,Sunday,Summer
+2025-04-14,Saffron,30,535,585,0,0,25,4,Monday,Summer
+2025-04-15,Saffron,31,504,627,0,0,20,4,Tuesday,Summer
+2025-04-16,Saffron,33,471,527,0,0,26,4,Wednesday,Summer
+2025-04-17,Saffron,39,432,568,0,0,35,4,Thursday,Summer
+2025-04-18,Saffron,33,399,589,0,0,25,4,Friday,Summer
+2025-04-19,Saffron,43,356,609,0,0,33,4,Saturday,Summer
+2025-04-20,Saffron,39,317,617,0,0,35,4,Sunday,Summer
+2025-04-21,Saffron,38,279,508,0,0,31,4,Monday,Summer
+2025-04-22,Saffron,38,241,563,0,0,37,4,Tuesday,Summer
+2025-04-23,Saffron,34,207,621,0,0,36,4,Wednesday,Summer
+2025-04-24,Saffron,53,154,571,1,0,24,4,Thursday,Summer
+2025-04-25,Saffron,51,751,598,1,0,30,4,Friday,Summer
+2025-04-26,Saffron,51,700,600,0,0,29,4,Saturday,Summer
+2025-04-27,Saffron,51,649,471,0,0,30,4,Sunday,Summer
+2025-04-28,Saffron,34,615,629,0,0,35,4,Monday,Summer
+2025-04-29,Saffron,32,583,600,0,0,29,4,Tuesday,Summer
+2025-04-30,Saffron,40,543,614,0,0,18,4,Wednesday,Summer
+2025-05-01,Saffron,35,508,468,0,0,24,5,Thursday,Summer
+2025-05-02,Saffron,38,470,577,0,0,22,5,Friday,Summer
+2025-05-03,Saffron,52,418,578,0,0,29,5,Saturday,Summer
+2025-05-04,Saffron,64,354,513,1,0,27,5,Sunday,Summer
+2025-05-05,Saffron,38,316,459,0,0,31,5,Monday,Summer
+2025-05-06,Saffron,40,276,515,0,0,26,5,Tuesday,Summer
+2025-05-07,Saffron,38,238,613,0,0,27,5,Wednesday,Summer
+2025-05-08,Saffron,35,203,461,0,0,34,5,Thursday,Summer
+2025-05-09,Saffron,38,165,611,0,0,37,5,Friday,Summer
+2025-05-10,Saffron,64,711,550,1,0,21,5,Saturday,Summer
+2025-05-11,Saffron,48,663,603,0,0,22,5,Sunday,Summer
+2025-05-12,Saffron,35,628,552,0,0,27,5,Monday,Summer
+2025-05-13,Saffron,33,595,637,0,0,30,5,Tuesday,Summer
+2025-05-14,Saffron,36,559,520,0,0,21,5,Wednesday,Summer
+2025-05-15,Saffron,32,527,529,0,0,37,5,Thursday,Summer
+2025-05-16,Saffron,37,490,611,0,0,35,5,Friday,Summer
+2025-05-17,Saffron,42,448,498,0,0,31,5,Saturday,Summer
+2025-05-18,Saffron,49,399,566,0,0,21,5,Sunday,Summer
+2025-05-19,Saffron,33,366,543,0,0,34,5,Monday,Summer
+2025-05-20,Saffron,31,335,512,0,0,37,5,Tuesday,Summer
+2025-05-21,Saffron,40,295,496,0,0,28,5,Wednesday,Summer
+2025-05-22,Saffron,35,260,494,0,0,18,5,Thursday,Summer
+2025-05-23,Saffron,33,227,597,0,0,33,5,Friday,Summer
+2025-05-24,Saffron,76,151,552,1,0,26,5,Saturday,Summer
+2025-05-25,Saffron,55,645,510,0,0,27,5,Sunday,Summer
+2025-05-26,Saffron,40,605,562,0,0,30,5,Monday,Summer
+2025-05-27,Saffron,40,565,558,0,0,36,5,Tuesday,Summer
+2025-05-28,Saffron,53,512,495,1,0,36,5,Wednesday,Summer
+2025-05-29,Saffron,34,478,498,0,0,27,5,Thursday,Summer
+2025-05-30,Saffron,50,428,539,1,0,21,5,Friday,Summer
+2025-05-31,Saffron,58,370,473,1,0,21,5,Saturday,Summer
+2025-06-01,Saffron,51,319,480,0,0,37,6,Sunday,Monsoon
+2025-06-02,Saffron,33,286,607,0,0,29,6,Monday,Monsoon
+2025-06-03,Saffron,35,251,584,0,0,20,6,Tuesday,Monsoon
+2025-06-04,Saffron,37,214,587,0,0,33,6,Wednesday,Monsoon
+2025-06-05,Saffron,39,175,519,0,0,29,6,Thursday,Monsoon
+2025-06-06,Saffron,33,725,633,0,0,28,6,Friday,Monsoon
+2025-06-07,Saffron,63,662,645,1,0,35,6,Saturday,Monsoon
+2025-06-08,Saffron,43,619,576,0,0,32,6,Sunday,Monsoon
+2025-06-09,Saffron,37,582,597,0,0,32,6,Monday,Monsoon
+2025-06-10,Saffron,55,527,603,1,0,29,6,Tuesday,Monsoon
+2025-06-11,Saffron,38,489,614,0,0,35,6,Wednesday,Monsoon
+2025-06-12,Saffron,36,453,614,0,0,34,6,Thursday,Monsoon
+2025-06-13,Saffron,38,415,534,0,0,29,6,Friday,Monsoon
+2025-06-14,Saffron,46,369,627,0,0,21,6,Saturday,Monsoon
+2025-06-15,Saffron,52,317,482,0,0,34,6,Sunday,Monsoon
+2025-06-16,Saffron,55,262,477,1,0,28,6,Monday,Monsoon
+2025-06-17,Saffron,35,227,626,0,0,34,6,Tuesday,Monsoon
+2025-06-18,Saffron,35,192,547,0,0,18,6,Wednesday,Monsoon
+2025-06-19,Saffron,34,158,451,0,0,33,6,Thursday,Monsoon
+2025-06-20,Saffron,39,986,547,0,0,33,6,Friday,Monsoon
+2025-06-21,Saffron,45,941,525,0,0,32,6,Saturday,Monsoon
+2025-06-22,Saffron,55,886,587,0,0,20,6,Sunday,Monsoon
+2025-06-23,Saffron,30,856,641,0,0,24,6,Monday,Monsoon
+2025-06-24,Saffron,54,802,559,1,0,37,6,Tuesday,Monsoon
+2025-06-25,Saffron,37,765,528,0,0,37,6,Wednesday,Monsoon
+2025-06-26,Saffron,60,705,617,1,0,34,6,Thursday,Monsoon
+2025-06-27,Saffron,38,667,580,0,0,25,6,Friday,Monsoon
+2025-06-28,Saffron,40,627,455,0,0,24,6,Saturday,Monsoon
+2025-06-29,Saffron,51,576,627,0,0,28,6,Sunday,Monsoon
+2025-06-30,Saffron,32,544,460,0,0,29,6,Monday,Monsoon
+2025-07-01,Saffron,37,507,490,0,0,21,7,Tuesday,Monsoon
+2025-07-02,Saffron,37,470,504,0,0,26,7,Wednesday,Monsoon
+2025-07-03,Saffron,37,433,491,0,0,37,7,Thursday,Monsoon
+2025-07-04,Saffron,31,402,456,0,0,33,7,Friday,Monsoon
+2025-07-05,Saffron,50,352,563,0,0,28,7,Saturday,Monsoon
+2025-07-06,Saffron,45,307,457,0,0,22,7,Sunday,Monsoon
+2025-07-07,Saffron,40,267,550,0,0,21,7,Monday,Monsoon
+2025-07-08,Saffron,35,232,468,0,0,26,7,Tuesday,Monsoon
+2025-07-09,Saffron,48,184,512,1,0,30,7,Wednesday,Monsoon
+2025-07-10,Saffron,47,859,453,1,0,23,7,Thursday,Monsoon
+2025-07-11,Saffron,40,819,518,0,0,20,7,Friday,Monsoon
+2025-07-12,Saffron,41,778,611,0,0,22,7,Saturday,Monsoon
+2025-07-13,Saffron,48,730,565,0,0,23,7,Sunday,Monsoon
+2025-07-14,Saffron,32,698,509,0,0,29,7,Monday,Monsoon
+2025-07-15,Saffron,51,647,580,1,0,29,7,Tuesday,Monsoon
+2025-07-16,Saffron,39,608,470,0,0,18,7,Wednesday,Monsoon
+2025-07-17,Saffron,33,575,483,0,0,26,7,Thursday,Monsoon
+2025-07-18,Saffron,31,544,507,0,0,28,7,Friday,Monsoon
+2025-07-19,Saffron,51,493,466,0,0,22,7,Saturday,Monsoon
+2025-07-20,Saffron,41,452,515,0,0,20,7,Sunday,Monsoon
+2025-07-21,Saffron,36,416,647,0,0,26,7,Monday,Monsoon
+2025-07-22,Saffron,30,386,649,0,0,20,7,Tuesday,Monsoon
+2025-07-23,Saffron,38,348,496,0,0,23,7,Wednesday,Monsoon
+2025-07-24,Saffron,34,314,506,0,0,31,7,Thursday,Monsoon
+2025-07-25,Saffron,33,281,594,0,0,24,7,Friday,Monsoon
+2025-07-26,Saffron,47,234,564,0,0,18,7,Saturday,Monsoon
+2025-07-27,Saffron,49,185,636,0,0,19,7,Sunday,Monsoon
+2025-07-28,Saffron,35,150,591,0,0,21,7,Monday,Monsoon
+2025-07-29,Saffron,32,701,596,0,0,31,7,Tuesday,Monsoon
+2025-07-30,Saffron,37,664,537,0,0,31,7,Wednesday,Monsoon
+2025-07-31,Saffron,53,611,625,1,0,36,7,Thursday,Monsoon
+2025-08-01,Saffron,53,558,468,1,0,26,8,Friday,Monsoon
+2025-08-02,Saffron,71,487,573,1,0,36,8,Saturday,Monsoon
+2025-08-03,Saffron,46,441,630,0,0,21,8,Sunday,Monsoon
+2025-08-04,Saffron,38,403,513,0,0,18,8,Monday,Monsoon
+2025-08-05,Saffron,38,365,591,0,0,28,8,Tuesday,Monsoon
+2025-08-06,Saffron,38,327,636,0,0,31,8,Wednesday,Monsoon
+2025-08-07,Saffron,33,294,517,0,0,25,8,Thursday,Monsoon
+2025-08-08,Saffron,59,235,618,1,0,33,8,Friday,Monsoon
+2025-08-09,Saffron,40,195,460,0,0,31,8,Saturday,Monsoon
+2025-08-10,Saffron,43,152,518,0,0,33,8,Sunday,Monsoon
+2025-08-11,Saffron,44,931,638,1,0,26,8,Monday,Monsoon
+2025-08-12,Saffron,50,881,514,1,0,25,8,Tuesday,Monsoon
+2025-08-13,Saffron,37,844,525,0,0,29,8,Wednesday,Monsoon
+2025-08-14,Saffron,38,806,596,0,0,37,8,Thursday,Monsoon
+2025-08-15,Saffron,37,769,470,0,0,36,8,Friday,Monsoon
+2025-08-16,Saffron,45,724,581,0,0,24,8,Saturday,Monsoon
+2025-08-17,Saffron,43,681,535,0,0,29,8,Sunday,Monsoon
+2025-08-18,Saffron,53,628,632,1,0,26,8,Monday,Monsoon
+2025-08-19,Saffron,36,592,615,0,0,23,8,Tuesday,Monsoon
+2025-08-20,Saffron,43,549,510,1,0,29,8,Wednesday,Monsoon
+2025-08-21,Saffron,40,509,585,0,0,36,8,Thursday,Monsoon
+2025-08-22,Saffron,30,479,634,0,0,30,8,Friday,Monsoon
+2025-08-23,Saffron,40,439,625,0,0,30,8,Saturday,Monsoon
+2025-08-24,Saffron,46,393,498,0,0,31,8,Sunday,Monsoon
+2025-08-25,Saffron,37,356,492,0,0,37,8,Monday,Monsoon
+2025-08-26,Saffron,39,317,488,0,0,34,8,Tuesday,Monsoon
+2025-08-27,Saffron,39,278,556,0,0,26,8,Wednesday,Monsoon
+2025-08-28,Saffron,34,244,498,0,0,26,8,Thursday,Monsoon
+2025-08-29,Saffron,48,196,508,1,0,24,8,Friday,Monsoon
+2025-08-30,Saffron,78,950,596,1,0,28,8,Saturday,Monsoon
+2025-08-31,Saffron,40,910,525,0,0,25,8,Sunday,Monsoon
+2025-09-01,Saffron,46,864,494,1,0,24,9,Monday,Autumn
+2025-09-02,Saffron,53,811,602,1,0,31,9,Tuesday,Autumn
+2025-09-03,Saffron,36,775,626,0,0,32,9,Wednesday,Autumn
+2025-09-04,Saffron,44,731,517,1,0,18,9,Thursday,Autumn
+2025-09-05,Saffron,31,700,596,0,0,32,9,Friday,Autumn
+2025-09-06,Saffron,45,655,525,0,0,36,9,Saturday,Autumn
+2025-09-07,Saffron,78,577,643,1,0,36,9,Sunday,Autumn
+2025-09-08,Saffron,39,538,591,0,0,35,9,Monday,Autumn
+2025-09-09,Saffron,38,500,570,0,0,24,9,Tuesday,Autumn
+2025-09-10,Saffron,50,450,604,1,0,19,9,Wednesday,Autumn
+2025-09-11,Saffron,32,418,593,0,0,25,9,Thursday,Autumn
+2025-09-12,Saffron,52,366,514,1,0,30,9,Friday,Autumn
+2025-09-13,Saffron,67,299,472,1,0,23,9,Saturday,Autumn
+2025-09-14,Saffron,43,256,613,0,0,20,9,Sunday,Autumn
+2025-09-15,Saffron,38,218,630,0,0,23,9,Monday,Autumn
+2025-09-16,Saffron,31,187,481,0,0,20,9,Tuesday,Autumn
+2025-09-17,Saffron,38,723,512,0,0,25,9,Wednesday,Autumn
+2025-09-18,Saffron,39,684,506,0,0,21,9,Thursday,Autumn
+2025-09-19,Saffron,37,647,616,0,0,19,9,Friday,Autumn
+2025-09-20,Saffron,51,596,645,0,0,22,9,Saturday,Autumn
+2025-09-21,Saffron,48,548,468,0,0,27,9,Sunday,Autumn
+2025-09-22,Saffron,32,516,620,0,0,32,9,Monday,Autumn
+2025-09-23,Saffron,40,476,498,0,0,34,9,Tuesday,Autumn
+2025-09-24,Saffron,34,442,585,0,0,19,9,Wednesday,Autumn
+2025-09-25,Saffron,54,388,514,1,0,21,9,Thursday,Autumn
+2025-09-26,Saffron,31,357,518,0,0,20,9,Friday,Autumn
+2025-09-27,Saffron,46,311,556,0,0,27,9,Saturday,Autumn
+2025-09-28,Saffron,50,261,574,0,0,32,9,Sunday,Autumn
+2025-09-29,Saffron,39,222,571,0,0,22,9,Monday,Autumn
+2025-09-30,Saffron,48,174,536,1,0,23,9,Tuesday,Autumn
+2025-10-01,Saffron,96,686,624,1,1,37,10,Wednesday,Autumn
+2025-10-02,Saffron,86,600,498,0,1,30,10,Thursday,Autumn
+2025-10-03,Saffron,78,522,536,0,1,36,10,Friday,Autumn
+2025-10-04,Saffron,117,405,534,1,1,31,10,Saturday,Autumn
+2025-10-05,Saffron,103,302,541,1,1,20,10,Sunday,Autumn
+2025-10-06,Saffron,80,222,466,0,1,20,10,Monday,Autumn
+2025-10-07,Saffron,86,976,468,0,1,22,10,Tuesday,Autumn
+2025-10-08,Saffron,74,902,613,0,1,36,10,Wednesday,Autumn
+2025-10-09,Saffron,73,829,588,0,1,24,10,Thursday,Autumn
+2025-10-10,Saffron,78,751,495,0,1,29,10,Friday,Autumn
+2025-10-11,Saffron,121,630,632,1,1,21,10,Saturday,Autumn
+2025-10-12,Saffron,99,531,592,0,1,28,10,Sunday,Autumn
+2025-10-13,Saffron,104,427,624,1,1,32,10,Monday,Autumn
+2025-10-14,Saffron,95,332,565,1,1,30,10,Tuesday,Autumn
+2025-10-15,Saffron,86,246,596,0,1,23,10,Wednesday,Autumn
+2025-10-16,Saffron,72,174,471,0,1,28,10,Thursday,Autumn
+2025-10-17,Saffron,78,747,643,0,1,26,10,Friday,Autumn
+2025-10-18,Saffron,116,631,562,1,1,25,10,Saturday,Autumn
+2025-10-19,Saffron,94,537,486,0,1,18,10,Sunday,Autumn
+2025-10-20,Saffron,91,446,582,0,1,26,10,Monday,Autumn
+2025-10-21,Saffron,89,357,458,1,1,19,10,Tuesday,Autumn
+2025-10-22,Saffron,84,273,524,0,1,20,10,Wednesday,Autumn
+2025-10-23,Saffron,73,200,572,0,1,23,10,Thursday,Autumn
+2025-10-24,Saffron,84,995,611,0,1,27,10,Friday,Autumn
+2025-10-25,Saffron,85,910,488,0,1,20,10,Saturday,Autumn
+2025-10-26,Saffron,107,803,567,0,1,24,10,Sunday,Autumn
+2025-10-27,Saffron,81,722,462,0,1,36,10,Monday,Autumn
+2025-10-28,Saffron,97,625,649,0,1,37,10,Tuesday,Autumn
+2025-10-29,Saffron,83,542,601,0,1,32,10,Wednesday,Autumn
+2025-10-30,Saffron,79,463,461,0,1,31,10,Thursday,Autumn
+2025-10-31,Saffron,75,388,554,0,1,29,10,Friday,Autumn
+2025-11-01,Saffron,94,294,542,0,1,35,11,Saturday,Autumn
+2025-11-02,Saffron,108,186,618,1,1,23,11,Sunday,Autumn
+2025-11-03,Saffron,99,723,556,1,1,36,11,Monday,Autumn
+2025-11-04,Saffron,68,655,592,0,1,36,11,Tuesday,Autumn
+2025-11-05,Saffron,87,568,628,0,1,22,11,Wednesday,Autumn
+2025-11-06,Saffron,88,480,509,0,1,27,11,Thursday,Autumn
+2025-11-07,Saffron,91,389,462,0,1,22,11,Friday,Autumn
+2025-11-08,Saffron,93,296,543,0,1,26,11,Saturday,Autumn
+2025-11-09,Saffron,107,189,497,1,1,24,11,Sunday,Autumn
+2025-11-10,Saffron,74,627,554,0,1,24,11,Monday,Autumn
+2025-11-11,Saffron,96,531,615,1,1,28,11,Tuesday,Autumn
+2025-11-12,Saffron,70,461,586,0,1,25,11,Wednesday,Autumn
+2025-11-13,Saffron,76,385,621,0,1,25,11,Thursday,Autumn
+2025-11-14,Saffron,96,289,498,1,1,27,11,Friday,Autumn
+2025-11-15,Saffron,99,190,551,0,1,19,11,Saturday,Autumn
+2025-11-16,Saffron,103,697,602,0,1,20,11,Sunday,Autumn
+2025-11-17,Saffron,76,621,473,0,1,28,11,Monday,Autumn
+2025-11-18,Saffron,80,541,514,0,1,37,11,Tuesday,Autumn
+2025-11-19,Saffron,94,447,476,0,1,27,11,Wednesday,Autumn
+2025-11-20,Saffron,99,348,584,1,1,18,11,Thursday,Autumn
+2025-11-21,Saffron,76,272,584,0,1,21,11,Friday,Autumn
+2025-11-22,Saffron,88,184,649,0,1,30,11,Saturday,Autumn
+2025-11-23,Saffron,112,650,605,1,1,30,11,Sunday,Autumn
+2025-11-24,Saffron,90,560,586,0,1,22,11,Monday,Autumn
+2025-11-25,Saffron,109,451,466,1,1,29,11,Tuesday,Autumn
+2025-11-26,Saffron,86,365,587,0,1,30,11,Wednesday,Autumn
+2025-11-27,Saffron,102,263,544,1,1,28,11,Thursday,Autumn
+2025-11-28,Saffron,100,163,631,1,1,32,11,Friday,Autumn
+2025-11-29,Saffron,93,877,454,0,1,37,11,Saturday,Autumn
+2025-11-30,Saffron,90,787,615,0,1,19,11,Sunday,Autumn
+2025-12-01,Saffron,39,748,470,0,0,31,12,Monday,Winter
+2025-12-02,Saffron,35,713,511,0,0,35,12,Tuesday,Winter
+2025-12-03,Saffron,32,681,455,0,0,25,12,Wednesday,Winter
+2025-12-04,Saffron,40,641,557,0,0,18,12,Thursday,Winter
+2025-12-05,Saffron,40,601,526,0,0,35,12,Friday,Winter
+2025-12-06,Saffron,46,555,548,0,0,33,12,Saturday,Winter
+2025-12-07,Saffron,54,501,639,0,0,29,12,Sunday,Winter
+2025-12-08,Saffron,38,463,467,0,0,36,12,Monday,Winter
+2025-12-09,Saffron,35,428,567,0,0,35,12,Tuesday,Winter
+2025-12-10,Saffron,47,381,478,1,0,19,12,Wednesday,Winter
+2025-12-11,Saffron,40,341,529,0,0,19,12,Thursday,Winter
+2025-12-12,Saffron,58,283,457,1,0,21,12,Friday,Winter
+2025-12-13,Saffron,38,245,636,0,0,37,12,Saturday,Winter
+2025-12-14,Saffron,50,195,493,0,0,26,12,Sunday,Winter
+2025-12-15,Saffron,49,900,605,1,0,27,12,Monday,Winter
+2025-12-16,Saffron,37,863,619,0,0,25,12,Tuesday,Winter
+2025-12-17,Saffron,59,804,471,1,0,22,12,Wednesday,Winter
+2025-12-18,Saffron,32,772,557,0,0,30,12,Thursday,Winter
+2025-12-19,Saffron,33,739,458,0,0,19,12,Friday,Winter
+2025-12-20,Saffron,48,691,542,0,0,24,12,Saturday,Winter
+2025-12-21,Saffron,41,650,566,0,0,20,12,Sunday,Winter
+2025-12-22,Saffron,36,614,540,0,0,31,12,Monday,Winter
+2025-12-23,Saffron,33,581,542,0,0,37,12,Tuesday,Winter
+2025-12-24,Saffron,31,550,517,0,0,18,12,Wednesday,Winter
+2025-12-25,Saffron,39,511,603,0,0,30,12,Thursday,Winter
+2025-12-26,Saffron,57,454,508,1,0,28,12,Friday,Winter
+2025-12-27,Saffron,55,399,642,0,0,34,12,Saturday,Winter
+2025-12-28,Saffron,75,324,517,1,0,22,12,Sunday,Winter
+2025-12-29,Saffron,37,287,628,0,0,20,12,Monday,Winter
+2025-12-30,Saffron,32,255,596,0,0,30,12,Tuesday,Winter
+2025-12-31,Saffron,36,219,520,0,0,25,12,Wednesday,Winter
+2024-01-01,Makhana,134,766,285,0,0,37,1,Monday,Winter
+2024-01-02,Makhana,135,631,220,0,0,33,1,Tuesday,Winter
+2024-01-03,Makhana,139,492,247,0,0,32,1,Wednesday,Winter
+2024-01-04,Makhana,146,346,206,1,0,25,1,Thursday,Winter
+2024-01-05,Makhana,129,217,203,0,0,27,1,Friday,Winter
+2024-01-06,Makhana,144,641,295,0,0,30,1,Saturday,Winter
+2024-01-07,Makhana,153,488,233,0,0,23,1,Sunday,Winter
+2024-01-08,Makhana,141,347,314,0,0,24,1,Monday,Winter
+2024-01-09,Makhana,130,217,307,0,0,36,1,Tuesday,Winter
+2024-01-10,Makhana,133,613,266,0,0,35,1,Wednesday,Winter
+2024-01-11,Makhana,143,470,305,0,0,33,1,Thursday,Winter
+2024-01-12,Makhana,151,319,195,1,0,25,1,Friday,Winter
+2024-01-13,Makhana,148,171,211,0,0,19,1,Saturday,Winter
+2024-01-14,Makhana,155,563,196,0,0,21,1,Sunday,Winter
+2024-01-15,Makhana,143,420,280,0,0,23,1,Monday,Winter
+2024-01-16,Makhana,135,285,215,0,0,34,1,Tuesday,Winter
+2024-01-17,Makhana,152,1011,194,1,0,24,1,Wednesday,Winter
+2024-01-18,Makhana,158,853,305,1,0,34,1,Thursday,Winter
+2024-01-19,Makhana,141,712,249,0,0,23,1,Friday,Winter
+2024-01-20,Makhana,150,562,255,1,0,33,1,Saturday,Winter
+2024-01-21,Makhana,141,421,194,0,0,21,1,Sunday,Winter
+2024-01-22,Makhana,129,292,292,0,0,36,1,Monday,Winter
+2024-01-23,Makhana,134,158,257,0,0,18,1,Tuesday,Winter
+2024-01-24,Makhana,158,889,238,1,0,36,1,Wednesday,Winter
+2024-01-25,Makhana,132,757,262,0,0,18,1,Thursday,Winter
+2024-01-26,Makhana,137,620,192,0,0,33,1,Friday,Winter
+2024-01-27,Makhana,174,446,274,1,0,21,1,Saturday,Winter
+2024-01-28,Makhana,146,300,236,0,0,22,1,Sunday,Winter
+2024-01-29,Makhana,138,162,293,0,0,33,1,Monday,Winter
+2024-01-30,Makhana,143,631,251,1,0,18,1,Tuesday,Winter
+2024-01-31,Makhana,139,492,312,0,0,29,1,Wednesday,Winter
+2024-02-01,Makhana,115,377,184,0,0,31,2,Thursday,Winter
+2024-02-02,Makhana,122,255,238,0,0,18,2,Friday,Winter
+2024-02-03,Makhana,126,675,302,0,0,19,2,Saturday,Winter
+2024-02-04,Makhana,156,519,314,1,0,32,2,Sunday,Winter
+2024-02-05,Makhana,121,398,307,0,0,37,2,Monday,Winter
+2024-02-06,Makhana,116,282,242,0,0,27,2,Tuesday,Winter
+2024-02-07,Makhana,143,655,241,1,0,27,2,Wednesday,Winter
+2024-02-08,Makhana,124,531,248,0,0,26,2,Thursday,Winter
+2024-02-09,Makhana,124,407,250,0,0,20,2,Friday,Winter
+2024-02-10,Makhana,134,273,181,0,0,27,2,Saturday,Winter
+2024-02-11,Makhana,156,846,218,1,0,32,2,Sunday,Winter
+2024-02-12,Makhana,123,723,287,0,0,36,2,Monday,Winter
+2024-02-13,Makhana,116,607,232,0,0,19,2,Tuesday,Winter
+2024-02-14,Makhana,120,487,206,0,0,27,2,Wednesday,Winter
+2024-02-15,Makhana,120,367,279,0,0,19,2,Thursday,Winter
+2024-02-16,Makhana,129,238,189,1,0,32,2,Friday,Winter
+2024-02-17,Makhana,154,681,201,1,0,21,2,Saturday,Winter
+2024-02-18,Makhana,131,550,292,0,0,30,2,Sunday,Winter
+2024-02-19,Makhana,115,435,316,0,0,21,2,Monday,Winter
+2024-02-20,Makhana,139,296,252,1,0,30,2,Tuesday,Winter
+2024-02-21,Makhana,120,176,253,0,0,35,2,Wednesday,Winter
+2024-02-22,Makhana,116,830,264,0,0,32,2,Thursday,Winter
+2024-02-23,Makhana,145,685,271,1,0,34,2,Friday,Winter
+2024-02-24,Makhana,132,553,218,0,0,34,2,Saturday,Winter
+2024-02-25,Makhana,142,411,289,1,0,22,2,Sunday,Winter
+2024-02-26,Makhana,116,295,219,0,0,28,2,Monday,Winter
+2024-02-27,Makhana,117,178,241,0,0,18,2,Tuesday,Winter
+2024-02-28,Makhana,116,699,273,0,0,33,2,Wednesday,Winter
+2024-02-29,Makhana,132,567,242,1,0,30,2,Thursday,Winter
+2024-03-01,Makhana,117,450,281,0,0,18,3,Friday,Summer
+2024-03-02,Makhana,136,314,252,0,0,23,3,Saturday,Summer
+2024-03-03,Makhana,131,183,216,0,0,26,3,Sunday,Summer
+2024-03-04,Makhana,125,615,264,0,0,19,3,Monday,Summer
+2024-03-05,Makhana,120,495,293,0,0,28,3,Tuesday,Summer
+2024-03-06,Makhana,139,356,277,1,0,28,3,Wednesday,Summer
+2024-03-07,Makhana,118,238,314,0,0,28,3,Thursday,Summer
+2024-03-08,Makhana,118,861,308,0,0,20,3,Friday,Summer
+2024-03-09,Makhana,136,725,264,0,0,33,3,Saturday,Summer
+2024-03-10,Makhana,131,594,288,0,0,32,3,Sunday,Summer
+2024-03-11,Makhana,117,477,248,0,0,18,3,Monday,Summer
+2024-03-12,Makhana,125,352,235,0,0,27,3,Tuesday,Summer
+2024-03-13,Makhana,119,233,240,0,0,37,3,Wednesday,Summer
+2024-03-14,Makhana,145,623,225,1,0,22,3,Thursday,Summer
+2024-03-15,Makhana,115,508,285,0,0,24,3,Friday,Summer
+2024-03-16,Makhana,131,377,185,0,0,36,3,Saturday,Summer
+2024-03-17,Makhana,133,244,297,0,0,22,3,Sunday,Summer
+2024-03-18,Makhana,115,941,255,0,0,33,3,Monday,Summer
+2024-03-19,Makhana,123,818,208,0,0,32,3,Tuesday,Summer
+2024-03-20,Makhana,118,700,291,0,0,30,3,Wednesday,Summer
+2024-03-21,Makhana,122,578,264,0,0,19,3,Thursday,Summer
+2024-03-22,Makhana,116,462,273,0,0,18,3,Friday,Summer
+2024-03-23,Makhana,132,330,301,0,0,27,3,Saturday,Summer
+2024-03-24,Makhana,133,197,207,0,0,28,3,Sunday,Summer
+2024-03-25,Makhana,121,693,226,0,0,36,3,Monday,Summer
+2024-03-26,Makhana,122,571,251,0,0,28,3,Tuesday,Summer
+2024-03-27,Makhana,115,456,198,0,0,20,3,Wednesday,Summer
+2024-03-28,Makhana,124,332,277,0,0,36,3,Thursday,Summer
+2024-03-29,Makhana,115,217,272,0,0,33,3,Friday,Summer
+2024-03-30,Makhana,129,658,307,0,0,34,3,Saturday,Summer
+2024-03-31,Makhana,129,529,186,0,0,34,3,Sunday,Summer
+2024-04-01,Makhana,127,402,241,1,0,34,4,Monday,Summer
+2024-04-02,Makhana,139,263,208,1,0,28,4,Tuesday,Summer
+2024-04-03,Makhana,123,759,233,0,0,26,4,Wednesday,Summer
+2024-04-04,Makhana,123,636,265,0,0,33,4,Thursday,Summer
+2024-04-05,Makhana,117,519,297,0,0,26,4,Friday,Summer
+2024-04-06,Makhana,131,388,194,0,0,20,4,Saturday,Summer
+2024-04-07,Makhana,135,253,307,0,0,33,4,Sunday,Summer
+2024-04-08,Makhana,122,834,201,0,0,23,4,Monday,Summer
+2024-04-09,Makhana,122,712,215,0,0,32,4,Tuesday,Summer
+2024-04-10,Makhana,123,589,228,0,0,30,4,Wednesday,Summer
+2024-04-11,Makhana,120,469,258,0,0,37,4,Thursday,Summer
+2024-04-12,Makhana,146,323,246,1,0,36,4,Friday,Summer
+2024-04-13,Makhana,132,191,238,0,0,21,4,Saturday,Summer
+2024-04-14,Makhana,136,940,275,0,0,28,4,Sunday,Summer
+2024-04-15,Makhana,115,825,316,0,0,19,4,Monday,Summer
+2024-04-16,Makhana,123,702,315,0,0,26,4,Tuesday,Summer
+2024-04-17,Makhana,119,583,291,0,0,30,4,Wednesday,Summer
+2024-04-18,Makhana,124,459,278,0,0,22,4,Thursday,Summer
+2024-04-19,Makhana,125,334,250,0,0,26,4,Friday,Summer
+2024-04-20,Makhana,128,206,310,0,0,21,4,Saturday,Summer
+2024-04-21,Makhana,137,900,241,0,0,27,4,Sunday,Summer
+2024-04-22,Makhana,125,775,233,0,0,33,4,Monday,Summer
+2024-04-23,Makhana,125,650,236,0,0,25,4,Tuesday,Summer
+2024-04-24,Makhana,116,534,273,0,0,29,4,Wednesday,Summer
+2024-04-25,Makhana,125,409,259,0,0,34,4,Thursday,Summer
+2024-04-26,Makhana,116,293,319,0,0,36,4,Friday,Summer
+2024-04-27,Makhana,132,161,307,0,0,23,4,Saturday,Summer
+2024-04-28,Makhana,136,697,240,0,0,18,4,Sunday,Summer
+2024-04-29,Makhana,140,557,289,1,0,30,4,Monday,Summer
+2024-04-30,Makhana,121,436,201,0,0,27,4,Tuesday,Summer
+2024-05-01,Makhana,118,318,202,0,0,23,5,Wednesday,Summer
+2024-05-02,Makhana,124,194,280,0,0,37,5,Thursday,Summer
+2024-05-03,Makhana,122,634,180,0,0,22,5,Friday,Summer
+2024-05-04,Makhana,132,502,275,0,0,20,5,Saturday,Summer
+2024-05-05,Makhana,128,374,313,0,0,31,5,Sunday,Summer
+2024-05-06,Makhana,140,234,283,1,0,30,5,Monday,Summer
+2024-05-07,Makhana,135,780,254,1,0,18,5,Tuesday,Summer
+2024-05-08,Makhana,120,660,206,0,0,37,5,Wednesday,Summer
+2024-05-09,Makhana,149,511,240,1,0,27,5,Thursday,Summer
+2024-05-10,Makhana,125,386,274,0,0,32,5,Friday,Summer
+2024-05-11,Makhana,155,231,227,1,0,20,5,Saturday,Summer
+2024-05-12,Makhana,135,951,293,0,0,34,5,Sunday,Summer
+2024-05-13,Makhana,125,826,278,0,0,20,5,Monday,Summer
+2024-05-14,Makhana,119,707,304,0,0,27,5,Tuesday,Summer
+2024-05-15,Makhana,118,589,240,0,0,36,5,Wednesday,Summer
+2024-05-16,Makhana,124,465,240,0,0,28,5,Thursday,Summer
+2024-05-17,Makhana,117,348,266,0,0,28,5,Friday,Summer
+2024-05-18,Makhana,128,220,238,0,0,22,5,Saturday,Summer
+2024-05-19,Makhana,126,763,311,0,0,34,5,Sunday,Summer
+2024-05-20,Makhana,123,640,193,0,0,28,5,Monday,Summer
+2024-05-21,Makhana,140,500,234,1,0,35,5,Tuesday,Summer
+2024-05-22,Makhana,125,375,200,0,0,29,5,Wednesday,Summer
+2024-05-23,Makhana,123,252,238,0,0,26,5,Thursday,Summer
+2024-05-24,Makhana,120,695,262,0,0,18,5,Friday,Summer
+2024-05-25,Makhana,136,559,272,0,0,31,5,Saturday,Summer
+2024-05-26,Makhana,124,435,298,0,0,28,5,Sunday,Summer
+2024-05-27,Makhana,122,313,297,0,0,37,5,Monday,Summer
+2024-05-28,Makhana,136,177,269,1,0,30,5,Tuesday,Summer
+2024-05-29,Makhana,119,583,245,0,0,21,5,Wednesday,Summer
+2024-05-30,Makhana,122,461,222,0,0,37,5,Thursday,Summer
+2024-05-31,Makhana,122,339,307,0,0,37,5,Friday,Summer
+2024-06-01,Makhana,136,203,186,0,0,33,6,Saturday,Monsoon
+2024-06-02,Makhana,134,747,267,0,0,26,6,Sunday,Monsoon
+2024-06-03,Makhana,124,623,298,0,0,25,6,Monday,Monsoon
+2024-06-04,Makhana,134,489,303,1,0,24,6,Tuesday,Monsoon
+2024-06-05,Makhana,115,374,196,0,0,27,6,Wednesday,Monsoon
+2024-06-06,Makhana,139,235,277,1,0,35,6,Thursday,Monsoon
+2024-06-07,Makhana,124,660,213,0,0,37,6,Friday,Monsoon
+2024-06-08,Makhana,147,513,263,1,0,20,6,Saturday,Monsoon
+2024-06-09,Makhana,134,379,251,0,0,25,6,Sunday,Monsoon
+2024-06-10,Makhana,121,258,283,0,0,28,6,Monday,Monsoon
+2024-06-11,Makhana,122,674,272,0,0,27,6,Tuesday,Monsoon
+2024-06-12,Makhana,118,556,304,0,0,30,6,Wednesday,Monsoon
+2024-06-13,Makhana,119,437,205,0,0,21,6,Thursday,Monsoon
+2024-06-14,Makhana,120,317,306,0,0,19,6,Friday,Monsoon
+2024-06-15,Makhana,133,184,189,0,0,25,6,Saturday,Monsoon
+2024-06-16,Makhana,136,860,244,0,0,27,6,Sunday,Monsoon
+2024-06-17,Makhana,119,741,188,0,0,30,6,Monday,Monsoon
+2024-06-18,Makhana,116,625,294,0,0,29,6,Tuesday,Monsoon
+2024-06-19,Makhana,124,501,194,0,0,32,6,Wednesday,Monsoon
+2024-06-20,Makhana,121,380,192,0,0,34,6,Thursday,Monsoon
+2024-06-21,Makhana,122,258,261,0,0,30,6,Friday,Monsoon
+2024-06-22,Makhana,136,669,250,0,0,20,6,Saturday,Monsoon
+2024-06-23,Makhana,130,539,268,0,0,25,6,Sunday,Monsoon
+2024-06-24,Makhana,115,424,313,0,0,36,6,Monday,Monsoon
+2024-06-25,Makhana,124,300,193,0,0,21,6,Tuesday,Monsoon
+2024-06-26,Makhana,142,158,256,1,0,23,6,Wednesday,Monsoon
+2024-06-27,Makhana,122,666,232,0,0,20,6,Thursday,Monsoon
+2024-06-28,Makhana,116,550,275,0,0,23,6,Friday,Monsoon
+2024-06-29,Makhana,138,412,185,0,0,31,6,Saturday,Monsoon
+2024-06-30,Makhana,147,265,238,1,0,22,6,Sunday,Monsoon
+2024-07-01,Makhana,123,928,306,0,0,26,7,Monday,Monsoon
+2024-07-02,Makhana,124,804,263,0,0,24,7,Tuesday,Monsoon
+2024-07-03,Makhana,118,686,192,0,0,30,7,Wednesday,Monsoon
+2024-07-04,Makhana,128,558,199,1,0,37,7,Thursday,Monsoon
+2024-07-05,Makhana,120,438,308,0,0,32,7,Friday,Monsoon
+2024-07-06,Makhana,130,308,288,0,0,31,7,Saturday,Monsoon
+2024-07-07,Makhana,139,169,290,0,0,30,7,Sunday,Monsoon
+2024-07-08,Makhana,115,799,195,0,0,19,7,Monday,Monsoon
+2024-07-09,Makhana,115,684,209,0,0,24,7,Tuesday,Monsoon
+2024-07-10,Makhana,129,555,192,1,0,28,7,Wednesday,Monsoon
+2024-07-11,Makhana,119,436,291,0,0,34,7,Thursday,Monsoon
+2024-07-12,Makhana,118,318,287,0,0,37,7,Friday,Monsoon
+2024-07-13,Makhana,148,170,290,1,0,18,7,Saturday,Monsoon
+2024-07-14,Makhana,133,676,211,0,0,32,7,Sunday,Monsoon
+2024-07-15,Makhana,123,553,315,0,0,25,7,Monday,Monsoon
+2024-07-16,Makhana,138,415,286,1,0,25,7,Tuesday,Monsoon
+2024-07-17,Makhana,117,298,318,0,0,24,7,Wednesday,Monsoon
+2024-07-18,Makhana,115,183,264,0,0,25,7,Thursday,Monsoon
+2024-07-19,Makhana,137,737,281,1,0,22,7,Friday,Monsoon
+2024-07-20,Makhana,133,604,294,0,0,28,7,Saturday,Monsoon
+2024-07-21,Makhana,132,472,242,0,0,25,7,Sunday,Monsoon
+2024-07-22,Makhana,148,324,196,1,0,23,7,Monday,Monsoon
+2024-07-23,Makhana,120,204,207,0,0,19,7,Tuesday,Monsoon
+2024-07-24,Makhana,119,652,294,0,0,37,7,Wednesday,Monsoon
+2024-07-25,Makhana,115,537,222,0,0,21,7,Thursday,Monsoon
+2024-07-26,Makhana,139,398,211,1,0,34,7,Friday,Monsoon
+2024-07-27,Makhana,133,265,278,0,0,31,7,Saturday,Monsoon
+2024-07-28,Makhana,130,731,227,0,0,25,7,Sunday,Monsoon
+2024-07-29,Makhana,141,590,293,1,0,21,7,Monday,Monsoon
+2024-07-30,Makhana,125,465,316,0,0,32,7,Tuesday,Monsoon
+2024-07-31,Makhana,122,343,298,0,0,31,7,Wednesday,Monsoon
+2024-08-01,Makhana,116,227,246,0,0,27,8,Thursday,Monsoon
+2024-08-02,Makhana,137,912,189,1,0,36,8,Friday,Monsoon
+2024-08-03,Makhana,161,751,292,1,0,32,8,Saturday,Monsoon
+2024-08-04,Makhana,129,622,223,0,0,32,8,Sunday,Monsoon
+2024-08-05,Makhana,116,506,263,0,0,29,8,Monday,Monsoon
+2024-08-06,Makhana,139,367,291,1,0,18,8,Tuesday,Monsoon
+2024-08-07,Makhana,116,251,310,0,0,37,8,Wednesday,Monsoon
+2024-08-08,Makhana,136,867,295,1,0,23,8,Thursday,Monsoon
+2024-08-09,Makhana,124,743,289,0,0,37,8,Friday,Monsoon
+2024-08-10,Makhana,139,604,301,0,0,22,8,Saturday,Monsoon
+2024-08-11,Makhana,157,447,270,1,0,35,8,Sunday,Monsoon
+2024-08-12,Makhana,117,330,283,0,0,20,8,Monday,Monsoon
+2024-08-13,Makhana,124,206,268,0,0,37,8,Tuesday,Monsoon
+2024-08-14,Makhana,121,962,240,0,0,22,8,Wednesday,Monsoon
+2024-08-15,Makhana,121,841,216,0,0,30,8,Thursday,Monsoon
+2024-08-16,Makhana,119,722,252,0,0,33,8,Friday,Monsoon
+2024-08-17,Makhana,126,596,209,0,0,28,8,Saturday,Monsoon
+2024-08-18,Makhana,139,457,304,0,0,26,8,Sunday,Monsoon
+2024-08-19,Makhana,124,333,210,0,0,37,8,Monday,Monsoon
+2024-08-20,Makhana,115,218,201,0,0,25,8,Tuesday,Monsoon
+2024-08-21,Makhana,127,612,258,1,0,34,8,Wednesday,Monsoon
+2024-08-22,Makhana,122,490,196,0,0,34,8,Thursday,Monsoon
+2024-08-23,Makhana,115,375,260,0,0,33,8,Friday,Monsoon
+2024-08-24,Makhana,135,240,233,0,0,30,8,Saturday,Monsoon
+2024-08-25,Makhana,130,806,239,0,0,23,8,Sunday,Monsoon
+2024-08-26,Makhana,133,673,205,1,0,32,8,Monday,Monsoon
+2024-08-27,Makhana,118,555,313,0,0,23,8,Tuesday,Monsoon
+2024-08-28,Makhana,116,439,311,0,0,34,8,Wednesday,Monsoon
+2024-08-29,Makhana,145,294,307,1,0,29,8,Thursday,Monsoon
+2024-08-30,Makhana,117,177,242,0,0,28,8,Friday,Monsoon
+2024-08-31,Makhana,127,671,279,0,0,20,8,Saturday,Monsoon
+2024-09-01,Makhana,130,541,250,0,0,28,9,Sunday,Autumn
+2024-09-02,Makhana,132,409,237,1,0,31,9,Monday,Autumn
+2024-09-03,Makhana,118,291,219,0,0,33,9,Tuesday,Autumn
+2024-09-04,Makhana,139,152,207,1,0,30,9,Wednesday,Autumn
+2024-09-05,Makhana,117,705,315,0,0,32,9,Thursday,Autumn
+2024-09-06,Makhana,121,584,224,0,0,19,9,Friday,Autumn
+2024-09-07,Makhana,132,452,282,0,0,27,9,Saturday,Autumn
+2024-09-08,Makhana,140,312,293,0,0,22,9,Sunday,Autumn
+2024-09-09,Makhana,121,191,239,0,0,19,9,Monday,Autumn
+2024-09-10,Makhana,145,667,273,1,0,23,9,Tuesday,Autumn
+2024-09-11,Makhana,118,549,272,0,0,23,9,Wednesday,Autumn
+2024-09-12,Makhana,116,433,194,0,0,25,9,Thursday,Autumn
+2024-09-13,Makhana,123,310,185,0,0,33,9,Friday,Autumn
+2024-09-14,Makhana,132,178,285,0,0,28,9,Saturday,Autumn
+2024-09-15,Makhana,126,940,260,0,0,26,9,Sunday,Autumn
+2024-09-16,Makhana,139,801,214,1,0,18,9,Monday,Autumn
+2024-09-17,Makhana,121,680,190,0,0,30,9,Tuesday,Autumn
+2024-09-18,Makhana,137,543,239,1,0,29,9,Wednesday,Autumn
+2024-09-19,Makhana,115,428,197,0,0,34,9,Thursday,Autumn
+2024-09-20,Makhana,123,305,202,0,0,27,9,Friday,Autumn
+2024-09-21,Makhana,144,161,209,1,0,19,9,Saturday,Autumn
+2024-09-22,Makhana,138,836,253,0,0,31,9,Sunday,Autumn
+2024-09-23,Makhana,123,713,204,0,0,31,9,Monday,Autumn
+2024-09-24,Makhana,116,597,189,0,0,20,9,Tuesday,Autumn
+2024-09-25,Makhana,119,478,314,0,0,34,9,Wednesday,Autumn
+2024-09-26,Makhana,116,362,255,0,0,27,9,Thursday,Autumn
+2024-09-27,Makhana,147,215,195,1,0,34,9,Friday,Autumn
+2024-09-28,Makhana,129,847,269,0,0,33,9,Saturday,Autumn
+2024-09-29,Makhana,140,707,255,0,0,30,9,Sunday,Autumn
+2024-09-30,Makhana,120,587,309,0,0,32,9,Monday,Autumn
+2024-10-01,Makhana,165,422,303,1,1,29,10,Tuesday,Autumn
+2024-10-02,Makhana,157,265,299,1,1,21,10,Wednesday,Autumn
+2024-10-03,Makhana,160,680,272,1,1,32,10,Thursday,Autumn
+2024-10-04,Makhana,146,534,250,0,1,30,10,Friday,Autumn
+2024-10-05,Makhana,151,383,198,0,1,30,10,Saturday,Autumn
+2024-10-06,Makhana,157,226,208,0,1,37,10,Sunday,Autumn
+2024-10-07,Makhana,139,942,195,0,1,35,10,Monday,Autumn
+2024-10-08,Makhana,146,796,241,0,1,21,10,Tuesday,Autumn
+2024-10-09,Makhana,153,643,217,0,1,23,10,Wednesday,Autumn
+2024-10-10,Makhana,150,493,188,0,1,21,10,Thursday,Autumn
+2024-10-11,Makhana,147,346,201,0,1,21,10,Friday,Autumn
+2024-10-12,Makhana,181,165,247,1,1,36,10,Saturday,Autumn
+2024-10-13,Makhana,154,697,274,0,1,19,10,Sunday,Autumn
+2024-10-14,Makhana,149,548,196,0,1,33,10,Monday,Autumn
+2024-10-15,Makhana,152,396,286,0,1,18,10,Tuesday,Autumn
+2024-10-16,Makhana,146,250,250,0,1,32,10,Wednesday,Autumn
+2024-10-17,Makhana,144,652,271,0,1,18,10,Thursday,Autumn
+2024-10-18,Makhana,151,501,203,0,1,21,10,Friday,Autumn
+2024-10-19,Makhana,185,316,191,1,1,20,10,Saturday,Autumn
+2024-10-20,Makhana,179,802,239,1,1,37,10,Sunday,Autumn
+2024-10-21,Makhana,149,653,256,0,1,26,10,Monday,Autumn
+2024-10-22,Makhana,147,506,201,0,1,37,10,Tuesday,Autumn
+2024-10-23,Makhana,144,362,268,0,1,19,10,Wednesday,Autumn
+2024-10-24,Makhana,153,209,189,0,1,19,10,Thursday,Autumn
+2024-10-25,Makhana,149,683,244,0,1,36,10,Friday,Autumn
+2024-10-26,Makhana,146,537,208,0,1,32,10,Saturday,Autumn
+2024-10-27,Makhana,160,377,289,0,1,31,10,Sunday,Autumn
+2024-10-28,Makhana,138,239,307,0,1,29,10,Monday,Autumn
+2024-10-29,Makhana,141,724,201,0,1,31,10,Tuesday,Autumn
+2024-10-30,Makhana,175,549,275,1,1,18,10,Wednesday,Autumn
+2024-10-31,Makhana,146,403,217,0,1,20,10,Thursday,Autumn
+2024-11-01,Makhana,162,241,283,0,1,36,11,Friday,Autumn
+2024-11-02,Makhana,176,610,240,0,1,24,11,Saturday,Autumn
+2024-11-03,Makhana,164,446,288,0,1,37,11,Sunday,Autumn
+2024-11-04,Makhana,154,292,210,0,1,20,11,Monday,Autumn
+2024-11-05,Makhana,170,1018,211,0,1,25,11,Tuesday,Autumn
+2024-11-06,Makhana,182,836,274,1,1,19,11,Wednesday,Autumn
+2024-11-07,Makhana,192,644,308,1,1,37,11,Thursday,Autumn
+2024-11-08,Makhana,165,479,267,0,1,28,11,Friday,Autumn
+2024-11-09,Makhana,194,285,290,1,1,18,11,Saturday,Autumn
+2024-11-10,Makhana,164,781,208,0,1,33,11,Sunday,Autumn
+2024-11-11,Makhana,159,622,287,0,1,29,11,Monday,Autumn
+2024-11-12,Makhana,164,458,198,0,1,23,11,Tuesday,Autumn
+2024-11-13,Makhana,168,290,231,0,1,32,11,Wednesday,Autumn
+2024-11-14,Makhana,179,725,221,1,1,33,11,Thursday,Autumn
+2024-11-15,Makhana,164,561,218,0,1,36,11,Friday,Autumn
+2024-11-16,Makhana,189,372,190,0,1,23,11,Saturday,Autumn
+2024-11-17,Makhana,170,202,292,0,1,27,11,Sunday,Autumn
+2024-11-18,Makhana,170,798,299,1,1,24,11,Monday,Autumn
+2024-11-19,Makhana,166,632,281,0,1,31,11,Tuesday,Autumn
+2024-11-20,Makhana,162,470,225,0,1,33,11,Wednesday,Autumn
+2024-11-21,Makhana,165,305,295,0,1,21,11,Thursday,Autumn
+2024-11-22,Makhana,190,829,271,1,1,26,11,Friday,Autumn
+2024-11-23,Makhana,201,628,208,1,1,36,11,Saturday,Autumn
+2024-11-24,Makhana,156,472,272,0,1,30,11,Sunday,Autumn
+2024-11-25,Makhana,167,305,281,0,1,27,11,Monday,Autumn
+2024-11-26,Makhana,165,646,243,0,1,27,11,Tuesday,Autumn
+2024-11-27,Makhana,197,449,314,1,1,33,11,Wednesday,Autumn
+2024-11-28,Makhana,164,285,183,1,1,34,11,Thursday,Autumn
+2024-11-29,Makhana,158,804,180,0,1,24,11,Friday,Autumn
+2024-11-30,Makhana,170,634,215,0,1,35,11,Saturday,Autumn
+2024-12-01,Makhana,145,489,195,0,0,20,12,Sunday,Winter
+2024-12-02,Makhana,132,357,196,0,0,24,12,Monday,Winter
+2024-12-03,Makhana,160,197,311,1,0,28,12,Tuesday,Winter
+2024-12-04,Makhana,129,820,269,0,0,24,12,Wednesday,Winter
+2024-12-05,Makhana,143,677,266,0,0,30,12,Thursday,Winter
+2024-12-06,Makhana,139,538,265,0,0,36,12,Friday,Winter
+2024-12-07,Makhana,149,389,212,0,0,27,12,Saturday,Winter
+2024-12-08,Makhana,151,238,255,0,0,18,12,Sunday,Winter
+2024-12-09,Makhana,130,881,296,0,0,29,12,Monday,Winter
+2024-12-10,Makhana,131,750,287,0,0,28,12,Tuesday,Winter
+2024-12-11,Makhana,141,609,277,1,0,19,12,Wednesday,Winter
+2024-12-12,Makhana,159,450,264,1,0,33,12,Thursday,Winter
+2024-12-13,Makhana,151,299,188,1,0,30,12,Friday,Winter
+2024-12-14,Makhana,148,151,221,0,0,27,12,Saturday,Winter
+2024-12-15,Makhana,155,834,290,0,0,20,12,Sunday,Winter
+2024-12-16,Makhana,132,702,319,0,0,32,12,Monday,Winter
+2024-12-17,Makhana,153,549,315,1,0,25,12,Tuesday,Winter
+2024-12-18,Makhana,145,404,264,1,0,20,12,Wednesday,Winter
+2024-12-19,Makhana,133,271,188,0,0,31,12,Thursday,Winter
+2024-12-20,Makhana,157,891,281,1,0,19,12,Friday,Winter
+2024-12-21,Makhana,149,742,289,0,0,25,12,Saturday,Winter
+2024-12-22,Makhana,149,593,291,0,0,31,12,Sunday,Winter
+2024-12-23,Makhana,139,454,313,0,0,32,12,Monday,Winter
+2024-12-24,Makhana,134,320,222,0,0,31,12,Tuesday,Winter
+2024-12-25,Makhana,135,185,235,0,0,32,12,Wednesday,Winter
+2024-12-26,Makhana,128,805,247,0,0,31,12,Thursday,Winter
+2024-12-27,Makhana,136,669,315,0,0,23,12,Friday,Winter
+2024-12-28,Makhana,152,517,297,0,0,35,12,Saturday,Winter
+2024-12-29,Makhana,141,376,242,0,0,29,12,Sunday,Winter
+2024-12-30,Makhana,134,242,214,0,0,24,12,Monday,Winter
+2024-12-31,Makhana,137,979,230,0,0,28,12,Tuesday,Winter
+2025-01-01,Makhana,137,842,198,0,0,35,1,Wednesday,Winter
+2025-01-02,Makhana,150,692,207,1,0,37,1,Thursday,Winter
+2025-01-03,Makhana,150,542,278,1,0,19,1,Friday,Winter
+2025-01-04,Makhana,146,396,233,0,0,33,1,Saturday,Winter
+2025-01-05,Makhana,148,248,264,0,0,25,1,Sunday,Winter
+2025-01-06,Makhana,133,678,313,0,0,36,1,Monday,Winter
+2025-01-07,Makhana,141,537,266,0,0,32,1,Tuesday,Winter
+2025-01-08,Makhana,139,398,270,0,0,30,1,Wednesday,Winter
+2025-01-09,Makhana,134,264,226,0,0,25,1,Thursday,Winter
+2025-01-10,Makhana,132,978,263,0,0,23,1,Friday,Winter
+2025-01-11,Makhana,153,825,269,0,0,25,1,Saturday,Winter
+2025-01-12,Makhana,142,683,296,0,0,34,1,Sunday,Winter
+2025-01-13,Makhana,134,549,237,0,0,35,1,Monday,Winter
+2025-01-14,Makhana,138,411,313,0,0,30,1,Tuesday,Winter
+2025-01-15,Makhana,133,278,182,0,0,20,1,Wednesday,Winter
+2025-01-16,Makhana,128,150,295,0,0,30,1,Thursday,Winter
+2025-01-17,Makhana,128,866,305,0,0,28,1,Friday,Winter
+2025-01-18,Makhana,142,724,204,0,0,33,1,Saturday,Winter
+2025-01-19,Makhana,161,563,259,1,0,29,1,Sunday,Winter
+2025-01-20,Makhana,127,436,268,0,0,30,1,Monday,Winter
+2025-01-21,Makhana,139,297,275,0,0,26,1,Tuesday,Winter
+2025-01-22,Makhana,140,157,189,0,0,37,1,Wednesday,Winter
+2025-01-23,Makhana,135,536,304,0,0,26,1,Thursday,Winter
+2025-01-24,Makhana,140,396,288,0,0,26,1,Friday,Winter
+2025-01-25,Makhana,167,229,248,1,0,22,1,Saturday,Winter
+2025-01-26,Makhana,161,756,288,1,0,27,1,Sunday,Winter
+2025-01-27,Makhana,134,622,289,0,0,26,1,Monday,Winter
+2025-01-28,Makhana,131,491,221,0,0,30,1,Tuesday,Winter
+2025-01-29,Makhana,138,353,252,0,0,37,1,Wednesday,Winter
+2025-01-30,Makhana,137,216,239,0,0,24,1,Thursday,Winter
+2025-01-31,Makhana,153,838,268,1,0,35,1,Friday,Winter
+2025-02-01,Makhana,130,708,192,0,0,24,2,Saturday,Winter
+2025-02-02,Makhana,134,574,278,0,0,35,2,Sunday,Winter
+2025-02-03,Makhana,118,456,248,0,0,36,2,Monday,Winter
+2025-02-04,Makhana,117,339,305,0,0,32,2,Tuesday,Winter
+2025-02-05,Makhana,142,197,247,1,0,32,2,Wednesday,Winter
+2025-02-06,Makhana,121,933,214,0,0,31,2,Thursday,Winter
+2025-02-07,Makhana,117,816,228,0,0,33,2,Friday,Winter
+2025-02-08,Makhana,135,681,259,0,0,37,2,Saturday,Winter
+2025-02-09,Makhana,155,526,189,1,0,19,2,Sunday,Winter
+2025-02-10,Makhana,120,406,313,0,0,34,2,Monday,Winter
+2025-02-11,Makhana,125,281,205,0,0,36,2,Tuesday,Winter
+2025-02-12,Makhana,117,164,254,0,0,23,2,Wednesday,Winter
+2025-02-13,Makhana,117,567,269,0,0,33,2,Thursday,Winter
+2025-02-14,Makhana,121,446,238,0,0,25,2,Friday,Winter
+2025-02-15,Makhana,152,294,250,1,0,26,2,Saturday,Winter
+2025-02-16,Makhana,130,164,235,0,0,21,2,Sunday,Winter
+2025-02-17,Makhana,117,829,283,0,0,24,2,Monday,Winter
+2025-02-18,Makhana,138,691,266,1,0,26,2,Tuesday,Winter
+2025-02-19,Makhana,140,551,242,1,0,21,2,Wednesday,Winter
+2025-02-20,Makhana,125,426,306,0,0,34,2,Thursday,Winter
+2025-02-21,Makhana,119,307,227,0,0,20,2,Friday,Winter
+2025-02-22,Makhana,143,164,193,1,0,33,2,Saturday,Winter
+2025-02-23,Makhana,126,743,261,0,0,35,2,Sunday,Winter
+2025-02-24,Makhana,120,623,206,0,0,32,2,Monday,Winter
+2025-02-25,Makhana,140,483,258,1,0,20,2,Tuesday,Winter
+2025-02-26,Makhana,123,360,277,0,0,25,2,Wednesday,Winter
+2025-02-27,Makhana,118,242,192,0,0,18,2,Thursday,Winter
+2025-02-28,Makhana,123,700,272,0,0,19,2,Friday,Winter
+2025-03-01,Makhana,134,566,217,0,0,31,3,Saturday,Summer
+2025-03-02,Makhana,131,435,280,0,0,31,3,Sunday,Summer
+2025-03-03,Makhana,142,293,264,1,0,20,3,Monday,Summer
+2025-03-04,Makhana,137,156,307,1,0,34,3,Tuesday,Summer
+2025-03-05,Makhana,124,616,309,0,0,21,3,Wednesday,Summer
+2025-03-06,Makhana,120,496,260,0,0,24,3,Thursday,Summer
+2025-03-07,Makhana,134,362,195,1,0,36,3,Friday,Summer
+2025-03-08,Makhana,139,223,245,0,0,26,3,Saturday,Summer
+2025-03-09,Makhana,131,748,201,0,0,19,3,Sunday,Summer
+2025-03-10,Makhana,115,633,197,0,0,24,3,Monday,Summer
+2025-03-11,Makhana,127,506,311,1,0,21,3,Tuesday,Summer
+2025-03-12,Makhana,125,381,238,0,0,18,3,Wednesday,Summer
+2025-03-13,Makhana,123,258,249,0,0,33,3,Thursday,Summer
+2025-03-14,Makhana,116,654,285,0,0,34,3,Friday,Summer
+2025-03-15,Makhana,154,500,218,1,0,27,3,Saturday,Summer
+2025-03-16,Makhana,146,354,209,1,0,19,3,Sunday,Summer
+2025-03-17,Makhana,117,237,250,0,0,35,3,Monday,Summer
+2025-03-18,Makhana,139,902,247,1,0,31,3,Tuesday,Summer
+2025-03-19,Makhana,141,761,257,1,0,26,3,Wednesday,Summer
+2025-03-20,Makhana,124,637,307,0,0,37,3,Thursday,Summer
+2025-03-21,Makhana,139,498,244,1,0,34,3,Friday,Summer
+2025-03-22,Makhana,129,369,262,0,0,20,3,Saturday,Summer
+2025-03-23,Makhana,154,215,221,1,0,19,3,Sunday,Summer
+2025-03-24,Makhana,134,874,301,1,0,34,3,Monday,Summer
+2025-03-25,Makhana,123,751,289,0,0,20,3,Tuesday,Summer
+2025-03-26,Makhana,117,634,236,0,0,29,3,Wednesday,Summer
+2025-03-27,Makhana,116,518,304,0,0,18,3,Thursday,Summer
+2025-03-28,Makhana,144,374,244,1,0,36,3,Friday,Summer
+2025-03-29,Makhana,127,247,195,0,0,29,3,Saturday,Summer
+2025-03-30,Makhana,128,810,279,0,0,27,3,Sunday,Summer
+2025-03-31,Makhana,145,665,202,1,0,24,3,Monday,Summer
+2025-04-01,Makhana,121,544,287,0,0,32,4,Tuesday,Summer
+2025-04-02,Makhana,142,402,257,1,0,33,4,Wednesday,Summer
+2025-04-03,Makhana,117,285,181,0,0,27,4,Thursday,Summer
+2025-04-04,Makhana,115,170,319,0,0,23,4,Friday,Summer
+2025-04-05,Makhana,131,596,308,0,0,32,4,Saturday,Summer
+2025-04-06,Makhana,133,463,224,0,0,18,4,Sunday,Summer
+2025-04-07,Makhana,124,339,314,0,0,32,4,Monday,Summer
+2025-04-08,Makhana,136,203,215,1,0,30,4,Tuesday,Summer
+2025-04-09,Makhana,145,612,248,1,0,19,4,Wednesday,Summer
+2025-04-10,Makhana,138,474,298,1,0,33,4,Thursday,Summer
+2025-04-11,Makhana,124,350,214,0,0,32,4,Friday,Summer
+2025-04-12,Makhana,126,224,276,0,0,26,4,Saturday,Summer
+2025-04-13,Makhana,154,612,211,1,0,35,4,Sunday,Summer
+2025-04-14,Makhana,115,497,240,0,0,31,4,Monday,Summer
+2025-04-15,Makhana,120,377,282,0,0,27,4,Tuesday,Summer
+2025-04-16,Makhana,116,261,305,0,0,34,4,Wednesday,Summer
+2025-04-17,Makhana,117,699,230,0,0,29,4,Thursday,Summer
+2025-04-18,Makhana,125,574,207,0,0,34,4,Friday,Summer
+2025-04-19,Makhana,127,447,293,0,0,24,4,Saturday,Summer
+2025-04-20,Makhana,136,311,253,0,0,22,4,Sunday,Summer
+2025-04-21,Makhana,119,192,220,0,0,30,4,Monday,Summer
+2025-04-22,Makhana,122,785,276,0,0,34,4,Tuesday,Summer
+2025-04-23,Makhana,136,649,241,1,0,26,4,Wednesday,Summer
+2025-04-24,Makhana,115,534,296,0,0,35,4,Thursday,Summer
+2025-04-25,Makhana,143,391,264,1,0,35,4,Friday,Summer
+2025-04-26,Makhana,138,253,288,0,0,34,4,Saturday,Summer
+2025-04-27,Makhana,127,707,280,0,0,30,4,Sunday,Summer
+2025-04-28,Makhana,115,592,311,0,0,35,4,Monday,Summer
+2025-04-29,Makhana,122,470,299,0,0,32,4,Tuesday,Summer
+2025-04-30,Makhana,145,325,194,1,0,22,4,Wednesday,Summer
+2025-05-01,Makhana,139,186,205,1,0,31,5,Thursday,Summer
+2025-05-02,Makhana,132,851,310,1,0,19,5,Friday,Summer
+2025-05-03,Makhana,125,726,255,0,0,34,5,Saturday,Summer
+2025-05-04,Makhana,140,586,228,0,0,20,5,Sunday,Summer
+2025-05-05,Makhana,134,452,297,1,0,24,5,Monday,Summer
+2025-05-06,Makhana,118,334,233,0,0,18,5,Tuesday,Summer
+2025-05-07,Makhana,124,210,297,0,0,33,5,Wednesday,Summer
+2025-05-08,Makhana,122,987,271,0,0,23,5,Thursday,Summer
+2025-05-09,Makhana,121,866,257,0,0,28,5,Friday,Summer
+2025-05-10,Makhana,138,728,205,0,0,30,5,Saturday,Summer
+2025-05-11,Makhana,129,599,247,0,0,28,5,Sunday,Summer
+2025-05-12,Makhana,115,484,319,0,0,29,5,Monday,Summer
+2025-05-13,Makhana,122,362,305,0,0,19,5,Tuesday,Summer
+2025-05-14,Makhana,119,243,227,0,0,21,5,Wednesday,Summer
+2025-05-15,Makhana,124,823,266,0,0,32,5,Thursday,Summer
+2025-05-16,Makhana,116,707,263,0,0,37,5,Friday,Summer
+2025-05-17,Makhana,132,575,245,0,0,21,5,Saturday,Summer
+2025-05-18,Makhana,130,445,279,0,0,35,5,Sunday,Summer
+2025-05-19,Makhana,125,320,296,0,0,36,5,Monday,Summer
+2025-05-20,Makhana,117,203,185,0,0,37,5,Tuesday,Summer
+2025-05-21,Makhana,141,630,227,1,0,24,5,Wednesday,Summer
+2025-05-22,Makhana,117,513,301,0,0,22,5,Thursday,Summer
+2025-05-23,Makhana,119,394,188,0,0,32,5,Friday,Summer
+2025-05-24,Makhana,125,269,251,0,0,28,5,Saturday,Summer
+2025-05-25,Makhana,149,633,298,1,0,31,5,Sunday,Summer
+2025-05-26,Makhana,120,513,287,0,0,31,5,Monday,Summer
+2025-05-27,Makhana,124,389,301,0,0,34,5,Tuesday,Summer
+2025-05-28,Makhana,117,272,180,0,0,29,5,Wednesday,Summer
+2025-05-29,Makhana,124,732,277,0,0,27,5,Thursday,Summer
+2025-05-30,Makhana,118,614,261,0,0,22,5,Friday,Summer
+2025-05-31,Makhana,146,468,277,1,0,23,5,Saturday,Summer
+2025-06-01,Makhana,140,328,306,0,0,29,6,Sunday,Monsoon
+2025-06-02,Makhana,122,206,318,0,0,21,6,Monday,Monsoon
+2025-06-03,Makhana,118,879,291,0,0,25,6,Tuesday,Monsoon
+2025-06-04,Makhana,120,759,265,0,0,29,6,Wednesday,Monsoon
+2025-06-05,Makhana,121,638,199,0,0,24,6,Thursday,Monsoon
+2025-06-06,Makhana,124,514,217,0,0,29,6,Friday,Monsoon
+2025-06-07,Makhana,134,380,301,0,0,23,6,Saturday,Monsoon
+2025-06-08,Makhana,128,252,230,0,0,27,6,Sunday,Monsoon
+2025-06-09,Makhana,119,921,249,0,0,24,6,Monday,Monsoon
+2025-06-10,Makhana,122,799,236,0,0,37,6,Tuesday,Monsoon
+2025-06-11,Makhana,146,653,253,1,0,31,6,Wednesday,Monsoon
+2025-06-12,Makhana,145,508,205,1,0,28,6,Thursday,Monsoon
+2025-06-13,Makhana,123,385,305,0,0,24,6,Friday,Monsoon
+2025-06-14,Makhana,144,241,263,1,0,20,6,Saturday,Monsoon
+2025-06-15,Makhana,130,991,289,0,0,25,6,Sunday,Monsoon
+2025-06-16,Makhana,140,851,266,1,0,37,6,Monday,Monsoon
+2025-06-17,Makhana,137,714,192,1,0,25,6,Tuesday,Monsoon
+2025-06-18,Makhana,124,590,273,0,0,36,6,Wednesday,Monsoon
+2025-06-19,Makhana,125,465,233,0,0,33,6,Thursday,Monsoon
+2025-06-20,Makhana,122,343,213,0,0,25,6,Friday,Monsoon
+2025-06-21,Makhana,149,194,192,1,0,36,6,Saturday,Monsoon
+2025-06-22,Makhana,156,645,255,1,0,19,6,Sunday,Monsoon
+2025-06-23,Makhana,143,502,181,1,0,22,6,Monday,Monsoon
+2025-06-24,Makhana,124,378,267,0,0,29,6,Tuesday,Monsoon
+2025-06-25,Makhana,122,256,252,0,0,32,6,Wednesday,Monsoon
+2025-06-26,Makhana,141,947,253,1,0,37,6,Thursday,Monsoon
+2025-06-27,Makhana,116,831,285,0,0,24,6,Friday,Monsoon
+2025-06-28,Makhana,132,699,264,0,0,23,6,Saturday,Monsoon
+2025-06-29,Makhana,132,567,264,0,0,33,6,Sunday,Monsoon
+2025-06-30,Makhana,115,452,302,0,0,33,6,Monday,Monsoon
+2025-07-01,Makhana,118,334,283,0,0,33,7,Tuesday,Monsoon
+2025-07-02,Makhana,144,190,223,1,0,29,7,Wednesday,Monsoon
+2025-07-03,Makhana,115,899,188,0,0,29,7,Thursday,Monsoon
+2025-07-04,Makhana,139,760,278,1,0,22,7,Friday,Monsoon
+2025-07-05,Makhana,154,606,285,1,0,30,7,Saturday,Monsoon
+2025-07-06,Makhana,141,465,247,0,0,18,7,Sunday,Monsoon
+2025-07-07,Makhana,123,342,280,0,0,36,7,Monday,Monsoon
+2025-07-08,Makhana,123,219,184,0,0,36,7,Tuesday,Monsoon
+2025-07-09,Makhana,124,945,319,0,0,21,7,Wednesday,Monsoon
+2025-07-10,Makhana,122,823,215,0,0,29,7,Thursday,Monsoon
+2025-07-11,Makhana,119,704,188,0,0,35,7,Friday,Monsoon
+2025-07-12,Makhana,133,571,284,0,0,31,7,Saturday,Monsoon
+2025-07-13,Makhana,127,444,207,0,0,27,7,Sunday,Monsoon
+2025-07-14,Makhana,134,310,277,1,0,27,7,Monday,Monsoon
+2025-07-15,Makhana,124,186,196,0,0,33,7,Tuesday,Monsoon
+2025-07-16,Makhana,136,843,269,1,0,34,7,Wednesday,Monsoon
+2025-07-17,Makhana,118,725,238,0,0,26,7,Thursday,Monsoon
+2025-07-18,Makhana,121,604,309,0,0,34,7,Friday,Monsoon
+2025-07-19,Makhana,137,467,227,0,0,36,7,Saturday,Monsoon
+2025-07-20,Makhana,145,322,259,1,0,32,7,Sunday,Monsoon
+2025-07-21,Makhana,125,197,292,0,0,35,7,Monday,Monsoon
+2025-07-22,Makhana,133,914,255,1,0,21,7,Tuesday,Monsoon
+2025-07-23,Makhana,142,772,263,1,0,32,7,Wednesday,Monsoon
+2025-07-24,Makhana,135,637,216,1,0,30,7,Thursday,Monsoon
+2025-07-25,Makhana,116,521,241,0,0,21,7,Friday,Monsoon
+2025-07-26,Makhana,128,393,288,0,0,29,7,Saturday,Monsoon
+2025-07-27,Makhana,133,260,247,0,0,19,7,Sunday,Monsoon
+2025-07-28,Makhana,142,848,221,1,0,26,7,Monday,Monsoon
+2025-07-29,Makhana,145,703,281,1,0,36,7,Tuesday,Monsoon
+2025-07-30,Makhana,115,588,271,0,0,34,7,Wednesday,Monsoon
+2025-07-31,Makhana,119,469,209,0,0,34,7,Thursday,Monsoon
+2025-08-01,Makhana,119,350,237,0,0,37,8,Friday,Monsoon
+2025-08-02,Makhana,132,218,229,0,0,18,8,Saturday,Monsoon
+2025-08-03,Makhana,164,819,215,1,0,29,8,Sunday,Monsoon
+2025-08-04,Makhana,123,696,308,0,0,24,8,Monday,Monsoon
+2025-08-05,Makhana,119,577,271,0,0,33,8,Tuesday,Monsoon
+2025-08-06,Makhana,136,441,204,1,0,22,8,Wednesday,Monsoon
+2025-08-07,Makhana,116,325,236,0,0,36,8,Thursday,Monsoon
+2025-08-08,Makhana,115,210,310,0,0,27,8,Friday,Monsoon
+2025-08-09,Makhana,134,630,246,0,0,30,8,Saturday,Monsoon
+2025-08-10,Makhana,127,503,291,0,0,23,8,Sunday,Monsoon
+2025-08-11,Makhana,115,388,266,0,0,26,8,Monday,Monsoon
+2025-08-12,Makhana,116,272,198,0,0,36,8,Tuesday,Monsoon
+2025-08-13,Makhana,120,152,221,0,0,27,8,Wednesday,Monsoon
+2025-08-14,Makhana,135,774,206,1,0,32,8,Thursday,Monsoon
+2025-08-15,Makhana,118,656,198,0,0,34,8,Friday,Monsoon
+2025-08-16,Makhana,148,508,260,1,0,24,8,Saturday,Monsoon
+2025-08-17,Makhana,129,379,208,0,0,26,8,Sunday,Monsoon
+2025-08-18,Makhana,122,257,193,0,0,22,8,Monday,Monsoon
+2025-08-19,Makhana,123,650,191,0,0,35,8,Tuesday,Monsoon
+2025-08-20,Makhana,139,511,202,1,0,34,8,Wednesday,Monsoon
+2025-08-21,Makhana,146,365,194,1,0,20,8,Thursday,Monsoon
+2025-08-22,Makhana,117,248,288,0,0,29,8,Friday,Monsoon
+2025-08-23,Makhana,126,631,288,0,0,18,8,Saturday,Monsoon
+2025-08-24,Makhana,130,501,291,0,0,31,8,Sunday,Monsoon
+2025-08-25,Makhana,116,385,261,0,0,29,8,Monday,Monsoon
+2025-08-26,Makhana,116,269,250,0,0,21,8,Tuesday,Monsoon
+2025-08-27,Makhana,120,848,316,0,0,26,8,Wednesday,Monsoon
+2025-08-28,Makhana,130,718,312,1,0,31,8,Thursday,Monsoon
+2025-08-29,Makhana,118,600,202,0,0,33,8,Friday,Monsoon
+2025-08-30,Makhana,132,468,247,0,0,32,8,Saturday,Monsoon
+2025-08-31,Makhana,136,332,274,0,0,29,8,Sunday,Monsoon
+2025-09-01,Makhana,139,193,221,1,0,23,9,Monday,Autumn
+2025-09-02,Makhana,121,679,253,0,0,32,9,Tuesday,Autumn
+2025-09-03,Makhana,136,543,241,1,0,26,9,Wednesday,Autumn
+2025-09-04,Makhana,125,418,298,0,0,19,9,Thursday,Autumn
+2025-09-05,Makhana,120,298,224,0,0,36,9,Friday,Autumn
+2025-09-06,Makhana,142,156,280,1,0,35,9,Saturday,Autumn
+2025-09-07,Makhana,151,836,230,1,0,20,9,Sunday,Autumn
+2025-09-08,Makhana,115,721,186,0,0,30,9,Monday,Autumn
+2025-09-09,Makhana,118,603,317,0,0,24,9,Tuesday,Autumn
+2025-09-10,Makhana,118,485,313,0,0,36,9,Wednesday,Autumn
+2025-09-11,Makhana,124,361,316,0,0,30,9,Thursday,Autumn
+2025-09-12,Makhana,122,239,183,0,0,20,9,Friday,Autumn
+2025-09-13,Makhana,129,665,233,0,0,20,9,Saturday,Autumn
+2025-09-14,Makhana,134,531,225,0,0,31,9,Sunday,Autumn
+2025-09-15,Makhana,120,411,196,0,0,21,9,Monday,Autumn
+2025-09-16,Makhana,117,294,260,0,0,26,9,Tuesday,Autumn
+2025-09-17,Makhana,142,152,245,1,0,37,9,Wednesday,Autumn
+2025-09-18,Makhana,125,633,201,0,0,32,9,Thursday,Autumn
+2025-09-19,Makhana,138,495,319,1,0,22,9,Friday,Autumn
+2025-09-20,Makhana,158,337,236,1,0,30,9,Saturday,Autumn
+2025-09-21,Makhana,138,199,219,0,0,33,9,Sunday,Autumn
+2025-09-22,Makhana,117,799,182,0,0,22,9,Monday,Autumn
+2025-09-23,Makhana,121,678,296,0,0,27,9,Tuesday,Autumn
+2025-09-24,Makhana,116,562,246,0,0,25,9,Wednesday,Autumn
+2025-09-25,Makhana,121,441,245,0,0,23,9,Thursday,Autumn
+2025-09-26,Makhana,118,323,319,0,0,24,9,Friday,Autumn
+2025-09-27,Makhana,156,167,304,1,0,31,9,Saturday,Autumn
+2025-09-28,Makhana,133,785,263,0,0,32,9,Sunday,Autumn
+2025-09-29,Makhana,122,663,228,0,0,37,9,Monday,Autumn
+2025-09-30,Makhana,116,547,312,0,0,24,9,Tuesday,Autumn
+2025-10-01,Makhana,142,405,243,0,1,27,10,Wednesday,Autumn
+2025-10-02,Makhana,148,257,266,0,1,18,10,Thursday,Autumn
+2025-10-03,Makhana,150,956,277,0,1,19,10,Friday,Autumn
+2025-10-04,Makhana,170,786,271,0,1,24,10,Saturday,Autumn
+2025-10-05,Makhana,162,624,226,0,1,23,10,Sunday,Autumn
+2025-10-06,Makhana,154,470,227,1,1,36,10,Monday,Autumn
+2025-10-07,Makhana,167,303,218,1,1,21,10,Tuesday,Autumn
+2025-10-08,Makhana,138,165,190,0,1,18,10,Wednesday,Autumn
+2025-10-09,Makhana,148,739,200,0,1,24,10,Thursday,Autumn
+2025-10-10,Makhana,163,576,290,1,1,35,10,Friday,Autumn
+2025-10-11,Makhana,149,427,308,0,1,28,10,Saturday,Autumn
+2025-10-12,Makhana,149,278,305,0,1,29,10,Sunday,Autumn
+2025-10-13,Makhana,143,710,189,0,1,35,10,Monday,Autumn
+2025-10-14,Makhana,136,574,249,0,1,33,10,Tuesday,Autumn
+2025-10-15,Makhana,174,400,269,1,1,23,10,Wednesday,Autumn
+2025-10-16,Makhana,148,252,194,0,1,33,10,Thursday,Autumn
+2025-10-17,Makhana,135,992,226,0,1,30,10,Friday,Autumn
+2025-10-18,Makhana,162,830,269,0,1,23,10,Saturday,Autumn
+2025-10-19,Makhana,159,671,296,0,1,24,10,Sunday,Autumn
+2025-10-20,Makhana,140,531,264,0,1,37,10,Monday,Autumn
+2025-10-21,Makhana,161,370,272,1,1,33,10,Tuesday,Autumn
+2025-10-22,Makhana,150,220,317,0,1,33,10,Wednesday,Autumn
+2025-10-23,Makhana,141,810,216,0,1,24,10,Thursday,Autumn
+2025-10-24,Makhana,153,657,193,0,1,18,10,Friday,Autumn
+2025-10-25,Makhana,167,490,269,0,1,36,10,Saturday,Autumn
+2025-10-26,Makhana,176,314,312,1,1,27,10,Sunday,Autumn
+2025-10-27,Makhana,147,167,206,0,1,31,10,Monday,Autumn
+2025-10-28,Makhana,138,681,308,0,1,27,10,Tuesday,Autumn
+2025-10-29,Makhana,144,537,249,0,1,19,10,Wednesday,Autumn
+2025-10-30,Makhana,138,399,282,0,1,33,10,Thursday,Autumn
+2025-10-31,Makhana,143,256,308,0,1,37,10,Friday,Autumn
+2025-11-01,Makhana,189,590,224,0,1,30,11,Saturday,Autumn
+2025-11-02,Makhana,194,396,194,1,1,19,11,Sunday,Autumn
+2025-11-03,Makhana,179,217,222,1,1,22,11,Monday,Autumn
+2025-11-04,Makhana,147,747,282,0,1,26,11,Tuesday,Autumn
+2025-11-05,Makhana,157,590,228,0,1,18,11,Wednesday,Autumn
+2025-11-06,Makhana,174,416,311,1,1,37,11,Thursday,Autumn
+2025-11-07,Makhana,153,263,214,0,1,33,11,Friday,Autumn
+2025-11-08,Makhana,176,911,262,0,1,18,11,Saturday,Autumn
+2025-11-09,Makhana,171,740,279,0,1,21,11,Sunday,Autumn
+2025-11-10,Makhana,164,576,201,1,1,19,11,Monday,Autumn
+2025-11-11,Makhana,158,418,208,0,1,34,11,Tuesday,Autumn
+2025-11-12,Makhana,168,250,228,0,1,22,11,Wednesday,Autumn
+2025-11-13,Makhana,146,605,282,0,1,32,11,Thursday,Autumn
+2025-11-14,Makhana,156,449,311,0,1,29,11,Friday,Autumn
+2025-11-15,Makhana,176,273,260,0,1,27,11,Saturday,Autumn
+2025-11-16,Makhana,187,594,279,0,1,35,11,Sunday,Autumn
+2025-11-17,Makhana,168,426,258,0,1,21,11,Monday,Autumn
+2025-11-18,Makhana,185,241,293,1,1,27,11,Tuesday,Autumn
+2025-11-19,Makhana,158,895,199,0,1,33,11,Wednesday,Autumn
+2025-11-20,Makhana,154,741,271,0,1,37,11,Thursday,Autumn
+2025-11-21,Makhana,152,589,297,0,1,22,11,Friday,Autumn
+2025-11-22,Makhana,171,418,208,0,1,20,11,Saturday,Autumn
+2025-11-23,Makhana,173,245,204,0,1,36,11,Sunday,Autumn
+2025-11-24,Makhana,181,809,316,1,1,19,11,Monday,Autumn
+2025-11-25,Makhana,153,656,256,0,1,31,11,Tuesday,Autumn
+2025-11-26,Makhana,163,493,306,0,1,19,11,Wednesday,Autumn
+2025-11-27,Makhana,157,336,234,0,1,20,11,Thursday,Autumn
+2025-11-28,Makhana,170,166,232,0,1,23,11,Friday,Autumn
+2025-11-29,Makhana,192,827,190,1,1,24,11,Saturday,Autumn
+2025-11-30,Makhana,172,655,293,0,1,28,11,Sunday,Autumn
+2025-12-01,Makhana,133,522,236,0,0,32,12,Monday,Winter
+2025-12-02,Makhana,155,367,198,1,0,22,12,Tuesday,Winter
+2025-12-03,Makhana,134,233,219,0,0,36,12,Wednesday,Winter
+2025-12-04,Makhana,140,821,212,0,0,36,12,Thursday,Winter
+2025-12-05,Makhana,137,684,205,0,0,29,12,Friday,Winter
+2025-12-06,Makhana,148,536,205,0,0,22,12,Saturday,Winter
+2025-12-07,Makhana,148,388,202,0,0,18,12,Sunday,Winter
+2025-12-08,Makhana,130,258,209,0,0,33,12,Monday,Winter
+2025-12-09,Makhana,134,757,309,0,0,34,12,Tuesday,Winter
+2025-12-10,Makhana,158,599,251,1,0,27,12,Wednesday,Winter
+2025-12-11,Makhana,139,460,185,0,0,24,12,Thursday,Winter
+2025-12-12,Makhana,150,310,283,1,0,35,12,Friday,Winter
+2025-12-13,Makhana,158,152,188,0,0,32,12,Saturday,Winter
+2025-12-14,Makhana,139,742,213,0,0,20,12,Sunday,Winter
+2025-12-15,Makhana,141,601,249,0,0,33,12,Monday,Winter
+2025-12-16,Makhana,129,472,282,0,0,26,12,Tuesday,Winter
+2025-12-17,Makhana,131,341,318,0,0,21,12,Wednesday,Winter
+2025-12-18,Makhana,134,207,309,0,0,22,12,Thursday,Winter
+2025-12-19,Makhana,134,886,279,0,0,28,12,Friday,Winter
+2025-12-20,Makhana,152,734,222,0,0,33,12,Saturday,Winter
+2025-12-21,Makhana,145,589,245,0,0,23,12,Sunday,Winter
+2025-12-22,Makhana,155,434,257,1,0,33,12,Monday,Winter
+2025-12-23,Makhana,132,302,269,0,0,35,12,Tuesday,Winter
+2025-12-24,Makhana,135,167,244,0,0,27,12,Wednesday,Winter
+2025-12-25,Makhana,134,549,207,0,0,30,12,Thursday,Winter
+2025-12-26,Makhana,156,393,310,1,0,29,12,Friday,Winter
+2025-12-27,Makhana,151,242,248,0,0,26,12,Saturday,Winter
+2025-12-28,Makhana,152,754,273,1,0,31,12,Sunday,Winter
+2025-12-29,Makhana,162,592,309,1,0,25,12,Monday,Winter
+2025-12-30,Makhana,128,464,282,0,0,22,12,Tuesday,Winter
+2025-12-31,Makhana,148,316,272,1,0,37,12,Wednesday,Winter
+2024-01-01,Chia Seeds,80,570,397,0,0,35,1,Monday,Winter
+2024-01-02,Chia Seeds,83,487,409,0,0,23,1,Tuesday,Winter
+2024-01-03,Chia Seeds,77,410,250,0,0,36,1,Wednesday,Winter
+2024-01-04,Chia Seeds,97,313,306,1,0,36,1,Thursday,Winter
+2024-01-05,Chia Seeds,79,234,271,0,0,24,1,Friday,Winter
+2024-01-06,Chia Seeds,109,728,408,1,0,22,1,Saturday,Winter
+2024-01-07,Chia Seeds,108,620,265,1,0,35,1,Sunday,Winter
+2024-01-08,Chia Seeds,84,536,288,0,0,31,1,Monday,Winter
+2024-01-09,Chia Seeds,102,434,377,1,0,35,1,Tuesday,Winter
+2024-01-10,Chia Seeds,85,349,264,0,0,21,1,Wednesday,Winter
+2024-01-11,Chia Seeds,79,270,418,0,0,27,1,Thursday,Winter
+2024-01-12,Chia Seeds,88,182,256,1,0,21,1,Friday,Winter
+2024-01-13,Chia Seeds,98,612,265,0,0,20,1,Saturday,Winter
+2024-01-14,Chia Seeds,101,511,402,1,0,34,1,Sunday,Winter
+2024-01-15,Chia Seeds,85,426,391,0,0,37,1,Monday,Winter
+2024-01-16,Chia Seeds,79,347,352,0,0,30,1,Tuesday,Winter
+2024-01-17,Chia Seeds,93,254,267,1,0,26,1,Wednesday,Winter
+2024-01-18,Chia Seeds,80,174,266,0,0,36,1,Thursday,Winter
+2024-01-19,Chia Seeds,77,630,369,0,0,22,1,Friday,Winter
+2024-01-20,Chia Seeds,95,535,337,0,0,28,1,Saturday,Winter
+2024-01-21,Chia Seeds,92,443,329,0,0,24,1,Sunday,Winter
+2024-01-22,Chia Seeds,84,359,265,0,0,25,1,Monday,Winter
+2024-01-23,Chia Seeds,77,282,270,0,0,35,1,Tuesday,Winter
+2024-01-24,Chia Seeds,75,207,281,0,0,26,1,Wednesday,Winter
+2024-01-25,Chia Seeds,85,758,397,0,0,19,1,Thursday,Winter
+2024-01-26,Chia Seeds,80,678,252,0,0,37,1,Friday,Winter
+2024-01-27,Chia Seeds,94,584,250,0,0,22,1,Saturday,Winter
+2024-01-28,Chia Seeds,121,463,370,1,0,31,1,Sunday,Winter
+2024-01-29,Chia Seeds,81,382,295,0,0,27,1,Monday,Winter
+2024-01-30,Chia Seeds,82,300,413,0,0,33,1,Tuesday,Winter
+2024-01-31,Chia Seeds,80,220,340,0,0,37,1,Wednesday,Winter
+2024-02-01,Chia Seeds,76,870,286,0,0,26,2,Thursday,Winter
+2024-02-02,Chia Seeds,95,775,355,1,0,36,2,Friday,Winter
+2024-02-03,Chia Seeds,97,678,260,0,0,34,2,Saturday,Winter
+2024-02-04,Chia Seeds,95,583,396,0,0,29,2,Sunday,Winter
+2024-02-05,Chia Seeds,85,498,350,0,0,22,2,Monday,Winter
+2024-02-06,Chia Seeds,76,422,356,0,0,29,2,Tuesday,Winter
+2024-02-07,Chia Seeds,78,344,381,0,0,35,2,Wednesday,Winter
+2024-02-08,Chia Seeds,85,259,339,0,0,36,2,Thursday,Winter
+2024-02-09,Chia Seeds,82,177,372,0,0,25,2,Friday,Winter
+2024-02-10,Chia Seeds,88,981,391,0,0,27,2,Saturday,Winter
+2024-02-11,Chia Seeds,87,894,416,0,0,31,2,Sunday,Winter
+2024-02-12,Chia Seeds,85,809,288,0,0,27,2,Monday,Winter
+2024-02-13,Chia Seeds,77,732,297,0,0,37,2,Tuesday,Winter
+2024-02-14,Chia Seeds,76,656,400,0,0,30,2,Wednesday,Winter
+2024-02-15,Chia Seeds,105,551,258,1,0,36,2,Thursday,Winter
+2024-02-16,Chia Seeds,79,472,395,0,0,18,2,Friday,Winter
+2024-02-17,Chia Seeds,90,382,292,0,0,19,2,Saturday,Winter
+2024-02-18,Chia Seeds,90,292,389,0,0,21,2,Sunday,Winter
+2024-02-19,Chia Seeds,76,216,251,0,0,32,2,Monday,Winter
+2024-02-20,Chia Seeds,75,798,384,0,0,31,2,Tuesday,Winter
+2024-02-21,Chia Seeds,94,704,337,1,0,23,2,Wednesday,Winter
+2024-02-22,Chia Seeds,82,622,369,0,0,23,2,Thursday,Winter
+2024-02-23,Chia Seeds,85,537,273,0,0,18,2,Friday,Winter
+2024-02-24,Chia Seeds,114,423,405,1,0,25,2,Saturday,Winter
+2024-02-25,Chia Seeds,90,333,388,0,0,27,2,Sunday,Winter
+2024-02-26,Chia Seeds,84,249,277,0,0,35,2,Monday,Winter
+2024-02-27,Chia Seeds,82,167,385,0,0,27,2,Tuesday,Winter
+2024-02-28,Chia Seeds,98,829,381,1,0,21,2,Wednesday,Winter
+2024-02-29,Chia Seeds,76,753,279,0,0,25,2,Thursday,Winter
+2024-03-01,Chia Seeds,102,651,286,0,0,19,3,Friday,Summer
+2024-03-02,Chia Seeds,111,540,302,0,0,35,3,Saturday,Summer
+2024-03-03,Chia Seeds,125,415,405,1,0,22,3,Sunday,Summer
+2024-03-04,Chia Seeds,103,312,397,0,0,36,3,Monday,Summer
+2024-03-05,Chia Seeds,94,218,256,0,0,24,3,Tuesday,Summer
+2024-03-06,Chia Seeds,96,925,307,0,0,26,3,Wednesday,Summer
+2024-03-07,Chia Seeds,102,823,274,0,0,37,3,Thursday,Summer
+2024-03-08,Chia Seeds,95,728,288,0,0,32,3,Friday,Summer
+2024-03-09,Chia Seeds,105,623,396,0,0,32,3,Saturday,Summer
+2024-03-10,Chia Seeds,114,509,350,1,0,26,3,Sunday,Summer
+2024-03-11,Chia Seeds,91,418,255,0,0,28,3,Monday,Summer
+2024-03-12,Chia Seeds,94,324,360,0,0,19,3,Tuesday,Summer
+2024-03-13,Chia Seeds,95,229,350,0,0,18,3,Wednesday,Summer
+2024-03-14,Chia Seeds,117,846,404,1,0,18,3,Thursday,Summer
+2024-03-15,Chia Seeds,96,750,266,0,0,25,3,Friday,Summer
+2024-03-16,Chia Seeds,116,634,336,0,0,20,3,Saturday,Summer
+2024-03-17,Chia Seeds,118,516,274,1,0,20,3,Sunday,Summer
+2024-03-18,Chia Seeds,98,418,295,0,0,28,3,Monday,Summer
+2024-03-19,Chia Seeds,101,317,412,0,0,34,3,Tuesday,Summer
+2024-03-20,Chia Seeds,97,220,414,0,0,25,3,Wednesday,Summer
+2024-03-21,Chia Seeds,85,1008,359,0,0,37,3,Thursday,Summer
+2024-03-22,Chia Seeds,93,915,362,0,0,30,3,Friday,Summer
+2024-03-23,Chia Seeds,110,805,255,0,0,36,3,Saturday,Summer
+2024-03-24,Chia Seeds,112,693,295,0,0,25,3,Sunday,Summer
+2024-03-25,Chia Seeds,93,600,388,0,0,29,3,Monday,Summer
+2024-03-26,Chia Seeds,105,495,260,1,0,21,3,Tuesday,Summer
+2024-03-27,Chia Seeds,100,395,305,0,0,25,3,Wednesday,Summer
+2024-03-28,Chia Seeds,93,302,279,0,0,29,3,Thursday,Summer
+2024-03-29,Chia Seeds,93,209,336,0,0,21,3,Friday,Summer
+2024-03-30,Chia Seeds,111,993,307,0,0,24,3,Saturday,Summer
+2024-03-31,Chia Seeds,111,882,355,0,0,33,3,Sunday,Summer
+2024-04-01,Chia Seeds,101,781,347,0,0,30,4,Monday,Summer
+2024-04-02,Chia Seeds,94,687,338,0,0,29,4,Tuesday,Summer
+2024-04-03,Chia Seeds,96,591,392,0,0,25,4,Wednesday,Summer
+2024-04-04,Chia Seeds,97,494,389,0,0,22,4,Thursday,Summer
+2024-04-05,Chia Seeds,102,392,402,0,0,30,4,Friday,Summer
+2024-04-06,Chia Seeds,112,280,356,0,0,22,4,Saturday,Summer
+2024-04-07,Chia Seeds,113,167,415,0,0,20,4,Sunday,Summer
+2024-04-08,Chia Seeds,113,605,335,1,0,25,4,Monday,Summer
+2024-04-09,Chia Seeds,94,511,361,0,0,31,4,Tuesday,Summer
+2024-04-10,Chia Seeds,98,413,355,0,0,34,4,Wednesday,Summer
+2024-04-11,Chia Seeds,89,324,265,0,0,34,4,Thursday,Summer
+2024-04-12,Chia Seeds,99,225,385,0,0,23,4,Friday,Summer
+2024-04-13,Chia Seeds,109,947,339,0,0,29,4,Saturday,Summer
+2024-04-14,Chia Seeds,113,834,419,0,0,33,4,Sunday,Summer
+2024-04-15,Chia Seeds,99,735,395,0,0,32,4,Monday,Summer
+2024-04-16,Chia Seeds,104,631,365,0,0,20,4,Tuesday,Summer
+2024-04-17,Chia Seeds,97,534,311,0,0,22,4,Wednesday,Summer
+2024-04-18,Chia Seeds,121,413,335,1,0,28,4,Thursday,Summer
+2024-04-19,Chia Seeds,97,316,341,0,0,23,4,Friday,Summer
+2024-04-20,Chia Seeds,113,203,295,0,0,25,4,Saturday,Summer
+2024-04-21,Chia Seeds,106,970,411,0,0,28,4,Sunday,Summer
+2024-04-22,Chia Seeds,91,879,371,0,0,34,4,Monday,Summer
+2024-04-23,Chia Seeds,98,781,384,0,0,20,4,Tuesday,Summer
+2024-04-24,Chia Seeds,89,692,362,0,0,29,4,Wednesday,Summer
+2024-04-25,Chia Seeds,95,597,387,0,0,20,4,Thursday,Summer
+2024-04-26,Chia Seeds,101,496,409,1,0,27,4,Friday,Summer
+2024-04-27,Chia Seeds,107,389,350,0,0,34,4,Saturday,Summer
+2024-04-28,Chia Seeds,111,278,268,0,0,20,4,Sunday,Summer
+2024-04-29,Chia Seeds,89,189,296,0,0,23,4,Monday,Summer
+2024-04-30,Chia Seeds,89,968,288,0,0,34,4,Tuesday,Summer
+2024-05-01,Chia Seeds,100,868,359,0,0,18,5,Wednesday,Summer
+2024-05-02,Chia Seeds,93,775,365,0,0,24,5,Thursday,Summer
+2024-05-03,Chia Seeds,91,684,371,0,0,28,5,Friday,Summer
+2024-05-04,Chia Seeds,107,577,390,0,0,36,5,Saturday,Summer
+2024-05-05,Chia Seeds,122,455,324,1,0,30,5,Sunday,Summer
+2024-05-06,Chia Seeds,99,356,324,0,0,19,5,Monday,Summer
+2024-05-07,Chia Seeds,92,264,326,0,0,22,5,Tuesday,Summer
+2024-05-08,Chia Seeds,116,724,351,1,0,25,5,Wednesday,Summer
+2024-05-09,Chia Seeds,117,607,310,1,0,24,5,Thursday,Summer
+2024-05-10,Chia Seeds,114,493,406,1,0,28,5,Friday,Summer
+2024-05-11,Chia Seeds,111,382,319,0,0,34,5,Saturday,Summer
+2024-05-12,Chia Seeds,138,244,402,1,0,18,5,Sunday,Summer
+2024-05-13,Chia Seeds,92,152,267,0,0,27,5,Monday,Summer
+2024-05-14,Chia Seeds,85,906,326,0,0,22,5,Tuesday,Summer
+2024-05-15,Chia Seeds,88,818,280,0,0,34,5,Wednesday,Summer
+2024-05-16,Chia Seeds,92,726,403,0,0,34,5,Thursday,Summer
+2024-05-17,Chia Seeds,94,632,335,0,0,22,5,Friday,Summer
+2024-05-18,Chia Seeds,103,529,367,0,0,22,5,Saturday,Summer
+2024-05-19,Chia Seeds,111,418,410,0,0,31,5,Sunday,Summer
+2024-05-20,Chia Seeds,89,329,295,0,0,33,5,Monday,Summer
+2024-05-21,Chia Seeds,114,215,337,1,0,20,5,Tuesday,Summer
+2024-05-22,Chia Seeds,103,761,373,1,0,27,5,Wednesday,Summer
+2024-05-23,Chia Seeds,89,672,326,0,0,31,5,Thursday,Summer
+2024-05-24,Chia Seeds,87,585,343,0,0,20,5,Friday,Summer
+2024-05-25,Chia Seeds,105,480,336,0,0,37,5,Saturday,Summer
+2024-05-26,Chia Seeds,119,361,356,0,0,23,5,Sunday,Summer
+2024-05-27,Chia Seeds,120,241,404,1,0,30,5,Monday,Summer
+2024-05-28,Chia Seeds,90,151,271,0,0,26,5,Tuesday,Summer
+2024-05-29,Chia Seeds,101,907,300,0,0,33,5,Wednesday,Summer
+2024-05-30,Chia Seeds,92,815,355,0,0,18,5,Thursday,Summer
+2024-05-31,Chia Seeds,114,701,260,1,0,29,5,Friday,Summer
+2024-06-01,Chia Seeds,98,603,388,0,0,21,6,Saturday,Monsoon
+2024-06-02,Chia Seeds,87,516,418,0,0,26,6,Sunday,Monsoon
+2024-06-03,Chia Seeds,101,415,259,1,0,19,6,Monday,Monsoon
+2024-06-04,Chia Seeds,77,338,292,0,0,23,6,Tuesday,Monsoon
+2024-06-05,Chia Seeds,100,238,341,1,0,27,6,Wednesday,Monsoon
+2024-06-06,Chia Seeds,83,155,299,0,0,35,6,Thursday,Monsoon
+2024-06-07,Chia Seeds,76,683,331,0,0,37,6,Friday,Monsoon
+2024-06-08,Chia Seeds,93,590,292,0,0,24,6,Saturday,Monsoon
+2024-06-09,Chia Seeds,92,498,388,0,0,18,6,Sunday,Monsoon
+2024-06-10,Chia Seeds,75,423,379,0,0,37,6,Monday,Monsoon
+2024-06-11,Chia Seeds,79,344,337,0,0,21,6,Tuesday,Monsoon
+2024-06-12,Chia Seeds,80,264,397,0,0,35,6,Wednesday,Monsoon
+2024-06-13,Chia Seeds,75,189,273,0,0,31,6,Thursday,Monsoon
+2024-06-14,Chia Seeds,104,792,344,1,0,30,6,Friday,Monsoon
+2024-06-15,Chia Seeds,95,697,275,0,0,19,6,Saturday,Monsoon
+2024-06-16,Chia Seeds,88,609,324,0,0,36,6,Sunday,Monsoon
+2024-06-17,Chia Seeds,79,530,330,0,0,24,6,Monday,Monsoon
+2024-06-18,Chia Seeds,85,445,380,0,0,37,6,Tuesday,Monsoon
+2024-06-19,Chia Seeds,84,361,391,0,0,29,6,Wednesday,Monsoon
+2024-06-20,Chia Seeds,84,277,409,0,0,36,6,Thursday,Monsoon
+2024-06-21,Chia Seeds,84,193,355,0,0,19,6,Friday,Monsoon
+2024-06-22,Chia Seeds,89,625,301,0,0,26,6,Saturday,Monsoon
+2024-06-23,Chia Seeds,104,521,333,1,0,36,6,Sunday,Monsoon
+2024-06-24,Chia Seeds,82,439,294,0,0,21,6,Monday,Monsoon
+2024-06-25,Chia Seeds,80,359,395,0,0,29,6,Tuesday,Monsoon
+2024-06-26,Chia Seeds,81,278,383,0,0,36,6,Wednesday,Monsoon
+2024-06-27,Chia Seeds,81,197,265,0,0,18,6,Thursday,Monsoon
+2024-06-28,Chia Seeds,95,793,414,1,0,34,6,Friday,Monsoon
+2024-06-29,Chia Seeds,99,694,374,0,0,18,6,Saturday,Monsoon
+2024-06-30,Chia Seeds,100,594,356,1,0,27,6,Sunday,Monsoon
+2024-07-01,Chia Seeds,78,516,286,0,0,21,7,Monday,Monsoon
+2024-07-02,Chia Seeds,76,440,337,0,0,19,7,Tuesday,Monsoon
+2024-07-03,Chia Seeds,84,356,277,0,0,20,7,Wednesday,Monsoon
+2024-07-04,Chia Seeds,108,248,314,1,0,27,7,Thursday,Monsoon
+2024-07-05,Chia Seeds,77,171,318,0,0,26,7,Friday,Monsoon
+2024-07-06,Chia Seeds,100,851,320,0,0,29,7,Saturday,Monsoon
+2024-07-07,Chia Seeds,92,759,258,0,0,34,7,Sunday,Monsoon
+2024-07-08,Chia Seeds,80,679,286,0,0,19,7,Monday,Monsoon
+2024-07-09,Chia Seeds,84,595,263,0,0,21,7,Tuesday,Monsoon
+2024-07-10,Chia Seeds,82,513,403,0,0,21,7,Wednesday,Monsoon
+2024-07-11,Chia Seeds,78,435,300,0,0,25,7,Thursday,Monsoon
+2024-07-12,Chia Seeds,79,356,278,0,0,35,7,Friday,Monsoon
+2024-07-13,Chia Seeds,93,263,250,0,0,24,7,Saturday,Monsoon
+2024-07-14,Chia Seeds,90,173,310,0,0,37,7,Sunday,Monsoon
+2024-07-15,Chia Seeds,96,609,373,1,0,31,7,Monday,Monsoon
+2024-07-16,Chia Seeds,84,525,333,0,0,18,7,Tuesday,Monsoon
+2024-07-17,Chia Seeds,79,446,329,0,0,32,7,Wednesday,Monsoon
+2024-07-18,Chia Seeds,81,365,358,0,0,28,7,Thursday,Monsoon
+2024-07-19,Chia Seeds,76,289,390,0,0,31,7,Friday,Monsoon
+2024-07-20,Chia Seeds,102,187,313,0,0,34,7,Saturday,Monsoon
+2024-07-21,Chia Seeds,95,788,308,0,0,35,7,Sunday,Monsoon
+2024-07-22,Chia Seeds,75,713,269,0,0,33,7,Monday,Monsoon
+2024-07-23,Chia Seeds,79,634,378,0,0,21,7,Tuesday,Monsoon
+2024-07-24,Chia Seeds,84,550,274,0,0,20,7,Wednesday,Monsoon
+2024-07-25,Chia Seeds,81,469,283,0,0,28,7,Thursday,Monsoon
+2024-07-26,Chia Seeds,80,389,319,0,0,35,7,Friday,Monsoon
+2024-07-27,Chia Seeds,93,296,393,0,0,29,7,Saturday,Monsoon
+2024-07-28,Chia Seeds,84,212,390,0,0,32,7,Sunday,Monsoon
+2024-07-29,Chia Seeds,82,954,323,0,0,31,7,Monday,Monsoon
+2024-07-30,Chia Seeds,80,874,372,0,0,28,7,Tuesday,Monsoon
+2024-07-31,Chia Seeds,78,796,397,0,0,35,7,Wednesday,Monsoon
+2024-08-01,Chia Seeds,84,712,347,0,0,26,8,Thursday,Monsoon
+2024-08-02,Chia Seeds,84,628,317,0,0,23,8,Friday,Monsoon
+2024-08-03,Chia Seeds,92,536,394,0,0,36,8,Saturday,Monsoon
+2024-08-04,Chia Seeds,95,441,407,0,0,25,8,Sunday,Monsoon
+2024-08-05,Chia Seeds,81,360,403,0,0,36,8,Monday,Monsoon
+2024-08-06,Chia Seeds,104,256,272,1,0,32,8,Tuesday,Monsoon
+2024-08-07,Chia Seeds,76,180,393,0,0,26,8,Wednesday,Monsoon
+2024-08-08,Chia Seeds,97,897,280,1,0,19,8,Thursday,Monsoon
+2024-08-09,Chia Seeds,76,821,345,0,0,25,8,Friday,Monsoon
+2024-08-10,Chia Seeds,100,721,323,0,0,21,8,Saturday,Monsoon
+2024-08-11,Chia Seeds,112,609,389,1,0,30,8,Sunday,Monsoon
+2024-08-12,Chia Seeds,90,519,324,1,0,26,8,Monday,Monsoon
+2024-08-13,Chia Seeds,91,428,263,1,0,19,8,Tuesday,Monsoon
+2024-08-14,Chia Seeds,84,344,353,0,0,27,8,Wednesday,Monsoon
+2024-08-15,Chia Seeds,96,248,268,1,0,25,8,Thursday,Monsoon
+2024-08-16,Chia Seeds,77,171,335,0,0,34,8,Friday,Monsoon
+2024-08-17,Chia Seeds,108,727,343,1,0,29,8,Saturday,Monsoon
+2024-08-18,Chia Seeds,96,631,385,0,0,21,8,Sunday,Monsoon
+2024-08-19,Chia Seeds,99,532,296,1,0,29,8,Monday,Monsoon
+2024-08-20,Chia Seeds,101,431,333,1,0,21,8,Tuesday,Monsoon
+2024-08-21,Chia Seeds,83,348,253,0,0,29,8,Wednesday,Monsoon
+2024-08-22,Chia Seeds,84,264,351,0,0,27,8,Thursday,Monsoon
+2024-08-23,Chia Seeds,84,180,268,0,0,36,8,Friday,Monsoon
+2024-08-24,Chia Seeds,92,853,277,0,0,19,8,Saturday,Monsoon
+2024-08-25,Chia Seeds,96,757,391,0,0,33,8,Sunday,Monsoon
+2024-08-26,Chia Seeds,75,682,394,0,0,30,8,Monday,Monsoon
+2024-08-27,Chia Seeds,76,606,292,0,0,25,8,Tuesday,Monsoon
+2024-08-28,Chia Seeds,78,528,265,0,0,31,8,Wednesday,Monsoon
+2024-08-29,Chia Seeds,79,449,312,0,0,28,8,Thursday,Monsoon
+2024-08-30,Chia Seeds,80,369,282,0,0,29,8,Friday,Monsoon
+2024-08-31,Chia Seeds,90,279,343,0,0,18,8,Saturday,Monsoon
+2024-09-01,Chia Seeds,98,181,295,0,0,23,9,Sunday,Autumn
+2024-09-02,Chia Seeds,83,685,324,0,0,37,9,Monday,Autumn
+2024-09-03,Chia Seeds,76,609,399,0,0,37,9,Tuesday,Autumn
+2024-09-04,Chia Seeds,83,526,295,0,0,26,9,Wednesday,Autumn
+2024-09-05,Chia Seeds,97,429,304,1,0,25,9,Thursday,Autumn
+2024-09-06,Chia Seeds,78,351,310,0,0,32,9,Friday,Autumn
+2024-09-07,Chia Seeds,88,263,303,0,0,31,9,Saturday,Autumn
+2024-09-08,Chia Seeds,94,169,331,0,0,20,9,Sunday,Autumn
+2024-09-09,Chia Seeds,81,806,360,0,0,18,9,Monday,Autumn
+2024-09-10,Chia Seeds,85,721,362,0,0,22,9,Tuesday,Autumn
+2024-09-11,Chia Seeds,83,638,369,0,0,32,9,Wednesday,Autumn
+2024-09-12,Chia Seeds,79,559,368,0,0,29,9,Thursday,Autumn
+2024-09-13,Chia Seeds,79,480,380,0,0,26,9,Friday,Autumn
+2024-09-14,Chia Seeds,101,379,379,0,0,33,9,Saturday,Autumn
+2024-09-15,Chia Seeds,115,264,313,1,0,37,9,Sunday,Autumn
+2024-09-16,Chia Seeds,78,186,395,0,0,36,9,Monday,Autumn
+2024-09-17,Chia Seeds,82,810,304,0,0,30,9,Tuesday,Autumn
+2024-09-18,Chia Seeds,78,732,410,0,0,21,9,Wednesday,Autumn
+2024-09-19,Chia Seeds,83,649,259,0,0,21,9,Thursday,Autumn
+2024-09-20,Chia Seeds,83,566,358,0,0,29,9,Friday,Autumn
+2024-09-21,Chia Seeds,103,463,274,1,0,29,9,Saturday,Autumn
+2024-09-22,Chia Seeds,95,368,375,0,0,35,9,Sunday,Autumn
+2024-09-23,Chia Seeds,97,271,365,1,0,34,9,Monday,Autumn
+2024-09-24,Chia Seeds,75,196,274,0,0,25,9,Tuesday,Autumn
+2024-09-25,Chia Seeds,97,716,396,1,0,26,9,Wednesday,Autumn
+2024-09-26,Chia Seeds,75,641,379,0,0,31,9,Thursday,Autumn
+2024-09-27,Chia Seeds,84,557,338,0,0,33,9,Friday,Autumn
+2024-09-28,Chia Seeds,99,458,360,0,0,32,9,Saturday,Autumn
+2024-09-29,Chia Seeds,86,372,276,0,0,27,9,Sunday,Autumn
+2024-09-30,Chia Seeds,75,297,321,0,0,21,9,Monday,Autumn
+2024-10-01,Chia Seeds,115,182,342,0,1,18,10,Tuesday,Autumn
+2024-10-02,Chia Seeds,96,688,362,0,1,34,10,Wednesday,Autumn
+2024-10-03,Chia Seeds,108,580,373,0,1,36,10,Thursday,Autumn
+2024-10-04,Chia Seeds,115,465,264,0,1,27,10,Friday,Autumn
+2024-10-05,Chia Seeds,140,325,266,1,1,29,10,Saturday,Autumn
+2024-10-06,Chia Seeds,132,193,319,1,1,25,10,Sunday,Autumn
+2024-10-07,Chia Seeds,110,917,323,0,1,37,10,Monday,Autumn
+2024-10-08,Chia Seeds,108,809,259,0,1,33,10,Tuesday,Autumn
+2024-10-09,Chia Seeds,103,706,368,0,1,20,10,Wednesday,Autumn
+2024-10-10,Chia Seeds,106,600,350,0,1,29,10,Thursday,Autumn
+2024-10-11,Chia Seeds,102,498,355,0,1,30,10,Friday,Autumn
+2024-10-12,Chia Seeds,121,377,410,0,1,33,10,Saturday,Autumn
+2024-10-13,Chia Seeds,123,254,356,0,1,35,10,Sunday,Autumn
+2024-10-14,Chia Seeds,123,918,279,1,1,24,10,Monday,Autumn
+2024-10-15,Chia Seeds,134,784,280,1,1,24,10,Tuesday,Autumn
+2024-10-16,Chia Seeds,103,681,284,0,1,18,10,Wednesday,Autumn
+2024-10-17,Chia Seeds,115,566,345,1,1,23,10,Thursday,Autumn
+2024-10-18,Chia Seeds,108,458,332,0,1,18,10,Friday,Autumn
+2024-10-19,Chia Seeds,108,350,356,0,1,32,10,Saturday,Autumn
+2024-10-20,Chia Seeds,115,235,415,0,1,35,10,Sunday,Autumn
+2024-10-21,Chia Seeds,105,928,327,0,1,30,10,Monday,Autumn
+2024-10-22,Chia Seeds,108,820,371,0,1,36,10,Tuesday,Autumn
+2024-10-23,Chia Seeds,125,695,349,1,1,27,10,Wednesday,Autumn
+2024-10-24,Chia Seeds,143,552,342,1,1,21,10,Thursday,Autumn
+2024-10-25,Chia Seeds,104,448,360,0,1,19,10,Friday,Autumn
+2024-10-26,Chia Seeds,132,316,348,0,1,35,10,Saturday,Autumn
+2024-10-27,Chia Seeds,112,204,380,0,1,21,10,Sunday,Autumn
+2024-10-28,Chia Seeds,108,934,287,0,1,35,10,Monday,Autumn
+2024-10-29,Chia Seeds,116,818,351,0,1,31,10,Tuesday,Autumn
+2024-10-30,Chia Seeds,131,687,280,1,1,37,10,Wednesday,Autumn
+2024-10-31,Chia Seeds,107,580,272,0,1,33,10,Thursday,Autumn
+2024-11-01,Chia Seeds,110,470,418,0,1,21,11,Friday,Autumn
+2024-11-02,Chia Seeds,151,319,328,1,1,31,11,Saturday,Autumn
+2024-11-03,Chia Seeds,118,201,295,0,1,35,11,Sunday,Autumn
+2024-11-04,Chia Seeds,109,920,373,0,1,27,11,Monday,Autumn
+2024-11-05,Chia Seeds,104,816,392,0,1,19,11,Tuesday,Autumn
+2024-11-06,Chia Seeds,127,689,363,1,1,22,11,Wednesday,Autumn
+2024-11-07,Chia Seeds,104,585,275,0,1,18,11,Thursday,Autumn
+2024-11-08,Chia Seeds,118,467,299,1,1,31,11,Friday,Autumn
+2024-11-09,Chia Seeds,116,351,413,0,1,32,11,Saturday,Autumn
+2024-11-10,Chia Seeds,155,196,319,1,1,18,11,Sunday,Autumn
+2024-11-11,Chia Seeds,105,765,280,0,1,22,11,Monday,Autumn
+2024-11-12,Chia Seeds,115,650,318,0,1,21,11,Tuesday,Autumn
+2024-11-13,Chia Seeds,103,547,297,0,1,27,11,Wednesday,Autumn
+2024-11-14,Chia Seeds,109,438,314,0,1,32,11,Thursday,Autumn
+2024-11-15,Chia Seeds,102,336,308,0,1,18,11,Friday,Autumn
+2024-11-16,Chia Seeds,113,223,297,0,1,25,11,Saturday,Autumn
+2024-11-17,Chia Seeds,119,884,383,0,1,18,11,Sunday,Autumn
+2024-11-18,Chia Seeds,102,782,380,0,1,34,11,Monday,Autumn
+2024-11-19,Chia Seeds,104,678,322,0,1,34,11,Tuesday,Autumn
+2024-11-20,Chia Seeds,106,572,298,0,1,29,11,Wednesday,Autumn
+2024-11-21,Chia Seeds,96,476,286,0,1,31,11,Thursday,Autumn
+2024-11-22,Chia Seeds,112,364,397,0,1,23,11,Friday,Autumn
+2024-11-23,Chia Seeds,123,241,337,0,1,26,11,Saturday,Autumn
+2024-11-24,Chia Seeds,125,709,310,0,1,32,11,Sunday,Autumn
+2024-11-25,Chia Seeds,112,597,261,0,1,31,11,Monday,Autumn
+2024-11-26,Chia Seeds,103,494,310,0,1,31,11,Tuesday,Autumn
+2024-11-27,Chia Seeds,105,389,301,0,1,28,11,Wednesday,Autumn
+2024-11-28,Chia Seeds,113,276,303,0,1,34,11,Thursday,Autumn
+2024-11-29,Chia Seeds,107,169,354,0,1,23,11,Friday,Autumn
+2024-11-30,Chia Seeds,126,655,286,0,1,31,11,Saturday,Autumn
+2024-12-01,Chia Seeds,89,566,403,0,0,21,12,Sunday,Winter
+2024-12-02,Chia Seeds,75,491,403,0,0,18,12,Monday,Winter
+2024-12-03,Chia Seeds,85,406,414,0,0,19,12,Tuesday,Winter
+2024-12-04,Chia Seeds,80,326,334,0,0,26,12,Wednesday,Winter
+2024-12-05,Chia Seeds,85,241,251,0,0,27,12,Thursday,Winter
+2024-12-06,Chia Seeds,85,156,375,0,0,27,12,Friday,Winter
+2024-12-07,Chia Seeds,98,698,407,0,0,37,12,Saturday,Winter
+2024-12-08,Chia Seeds,87,611,303,0,0,25,12,Sunday,Winter
+2024-12-09,Chia Seeds,81,530,251,0,0,35,12,Monday,Winter
+2024-12-10,Chia Seeds,75,455,329,0,0,28,12,Tuesday,Winter
+2024-12-11,Chia Seeds,81,374,377,0,0,33,12,Wednesday,Winter
+2024-12-12,Chia Seeds,102,272,356,1,0,33,12,Thursday,Winter
+2024-12-13,Chia Seeds,85,187,383,0,0,28,12,Friday,Winter
+2024-12-14,Chia Seeds,83,626,344,0,0,29,12,Saturday,Winter
+2024-12-15,Chia Seeds,92,534,308,0,0,21,12,Sunday,Winter
+2024-12-16,Chia Seeds,82,452,306,0,0,34,12,Monday,Winter
+2024-12-17,Chia Seeds,78,374,304,0,0,30,12,Tuesday,Winter
+2024-12-18,Chia Seeds,79,295,270,0,0,37,12,Wednesday,Winter
+2024-12-19,Chia Seeds,78,217,316,0,0,34,12,Thursday,Winter
+2024-12-20,Chia Seeds,84,957,313,0,0,25,12,Friday,Winter
+2024-12-21,Chia Seeds,90,867,365,0,0,36,12,Saturday,Winter
+2024-12-22,Chia Seeds,87,780,357,0,0,20,12,Sunday,Winter
+2024-12-23,Chia Seeds,84,696,272,0,0,35,12,Monday,Winter
+2024-12-24,Chia Seeds,79,617,308,0,0,29,12,Tuesday,Winter
+2024-12-25,Chia Seeds,93,524,278,1,0,18,12,Wednesday,Winter
+2024-12-26,Chia Seeds,84,440,339,0,0,21,12,Thursday,Winter
+2024-12-27,Chia Seeds,76,364,410,0,0,33,12,Friday,Winter
+2024-12-28,Chia Seeds,111,253,270,1,0,22,12,Saturday,Winter
+2024-12-29,Chia Seeds,110,671,287,1,0,28,12,Sunday,Winter
+2024-12-30,Chia Seeds,100,571,310,1,0,36,12,Monday,Winter
+2024-12-31,Chia Seeds,92,479,372,1,0,31,12,Tuesday,Winter
+2025-01-01,Chia Seeds,92,387,389,1,0,36,1,Wednesday,Winter
+2025-01-02,Chia Seeds,75,312,410,0,0,22,1,Thursday,Winter
+2025-01-03,Chia Seeds,83,229,361,0,0,31,1,Friday,Winter
+2025-01-04,Chia Seeds,92,713,323,0,0,26,1,Saturday,Winter
+2025-01-05,Chia Seeds,88,625,411,0,0,34,1,Sunday,Winter
+2025-01-06,Chia Seeds,81,544,358,0,0,30,1,Monday,Winter
+2025-01-07,Chia Seeds,75,469,318,0,0,20,1,Tuesday,Winter
+2025-01-08,Chia Seeds,100,369,400,1,0,35,1,Wednesday,Winter
+2025-01-09,Chia Seeds,79,290,256,0,0,18,1,Thursday,Winter
+2025-01-10,Chia Seeds,105,185,381,1,0,19,1,Friday,Winter
+2025-01-11,Chia Seeds,91,715,287,0,0,19,1,Saturday,Winter
+2025-01-12,Chia Seeds,98,617,303,0,0,18,1,Sunday,Winter
+2025-01-13,Chia Seeds,94,523,376,1,0,35,1,Monday,Winter
+2025-01-14,Chia Seeds,99,424,261,1,0,18,1,Tuesday,Winter
+2025-01-15,Chia Seeds,77,347,364,0,0,26,1,Wednesday,Winter
+2025-01-16,Chia Seeds,82,265,327,0,0,20,1,Thursday,Winter
+2025-01-17,Chia Seeds,76,189,401,0,0,26,1,Friday,Winter
+2025-01-18,Chia Seeds,88,803,396,0,0,32,1,Saturday,Winter
+2025-01-19,Chia Seeds,105,698,377,1,0,37,1,Sunday,Winter
+2025-01-20,Chia Seeds,99,599,274,1,0,18,1,Monday,Winter
+2025-01-21,Chia Seeds,78,521,319,0,0,34,1,Tuesday,Winter
+2025-01-22,Chia Seeds,80,441,343,0,0,37,1,Wednesday,Winter
+2025-01-23,Chia Seeds,77,364,331,0,0,21,1,Thursday,Winter
+2025-01-24,Chia Seeds,91,273,370,1,0,18,1,Friday,Winter
+2025-01-25,Chia Seeds,95,178,359,0,0,20,1,Saturday,Winter
+2025-01-26,Chia Seeds,87,601,280,0,0,29,1,Sunday,Winter
+2025-01-27,Chia Seeds,100,501,335,1,0,19,1,Monday,Winter
+2025-01-28,Chia Seeds,78,423,263,0,0,18,1,Tuesday,Winter
+2025-01-29,Chia Seeds,78,345,341,0,0,28,1,Wednesday,Winter
+2025-01-30,Chia Seeds,90,255,268,1,0,26,1,Thursday,Winter
+2025-01-31,Chia Seeds,85,170,266,0,0,29,1,Friday,Winter
+2025-02-01,Chia Seeds,92,578,374,0,0,18,2,Saturday,Winter
+2025-02-02,Chia Seeds,114,464,329,1,0,35,2,Sunday,Winter
+2025-02-03,Chia Seeds,89,375,385,1,0,20,2,Monday,Winter
+2025-02-04,Chia Seeds,84,291,318,0,0,25,2,Tuesday,Winter
+2025-02-05,Chia Seeds,76,215,366,0,0,18,2,Wednesday,Winter
+2025-02-06,Chia Seeds,107,645,265,1,0,33,2,Thursday,Winter
+2025-02-07,Chia Seeds,101,544,312,1,0,33,2,Friday,Winter
+2025-02-08,Chia Seeds,118,426,393,1,0,37,2,Saturday,Winter
+2025-02-09,Chia Seeds,113,313,262,1,0,25,2,Sunday,Winter
+2025-02-10,Chia Seeds,83,230,252,0,0,20,2,Monday,Winter
+2025-02-11,Chia Seeds,80,150,299,0,0,29,2,Tuesday,Winter
+2025-02-12,Chia Seeds,76,920,278,0,0,24,2,Wednesday,Winter
+2025-02-13,Chia Seeds,75,845,305,0,0,19,2,Thursday,Winter
+2025-02-14,Chia Seeds,93,752,272,1,0,24,2,Friday,Winter
+2025-02-15,Chia Seeds,90,662,404,0,0,27,2,Saturday,Winter
+2025-02-16,Chia Seeds,112,550,377,1,0,22,2,Sunday,Winter
+2025-02-17,Chia Seeds,75,475,367,0,0,21,2,Monday,Winter
+2025-02-18,Chia Seeds,78,397,251,0,0,35,2,Tuesday,Winter
+2025-02-19,Chia Seeds,80,317,326,0,0,25,2,Wednesday,Winter
+2025-02-20,Chia Seeds,75,242,261,0,0,21,2,Thursday,Winter
+2025-02-21,Chia Seeds,83,159,372,0,0,24,2,Friday,Winter
+2025-02-22,Chia Seeds,93,595,318,0,0,34,2,Saturday,Winter
+2025-02-23,Chia Seeds,93,502,315,0,0,27,2,Sunday,Winter
+2025-02-24,Chia Seeds,106,396,369,1,0,21,2,Monday,Winter
+2025-02-25,Chia Seeds,75,321,406,0,0,22,2,Tuesday,Winter
+2025-02-26,Chia Seeds,81,240,380,0,0,20,2,Wednesday,Winter
+2025-02-27,Chia Seeds,77,163,264,0,0,25,2,Thursday,Winter
+2025-02-28,Chia Seeds,81,897,331,0,0,28,2,Friday,Winter
+2025-03-01,Chia Seeds,115,782,396,0,0,20,3,Saturday,Summer
+2025-03-02,Chia Seeds,104,678,364,0,0,30,3,Sunday,Summer
+2025-03-03,Chia Seeds,88,590,333,0,0,30,3,Monday,Summer
+2025-03-04,Chia Seeds,114,476,332,1,0,32,3,Tuesday,Summer
+2025-03-05,Chia Seeds,95,381,302,0,0,30,3,Wednesday,Summer
+2025-03-06,Chia Seeds,99,282,361,0,0,22,3,Thursday,Summer
+2025-03-07,Chia Seeds,99,183,358,0,0,30,3,Friday,Summer
+2025-03-08,Chia Seeds,97,625,289,0,0,33,3,Saturday,Summer
+2025-03-09,Chia Seeds,104,521,356,0,0,25,3,Sunday,Summer
+2025-03-10,Chia Seeds,100,421,339,0,0,19,3,Monday,Summer
+2025-03-11,Chia Seeds,94,327,339,0,0,36,3,Tuesday,Summer
+2025-03-12,Chia Seeds,96,231,305,0,0,36,3,Wednesday,Summer
+2025-03-13,Chia Seeds,94,825,274,0,0,37,3,Thursday,Summer
+2025-03-14,Chia Seeds,88,737,325,0,0,26,3,Friday,Summer
+2025-03-15,Chia Seeds,101,636,419,0,0,31,3,Saturday,Summer
+2025-03-16,Chia Seeds,117,519,365,1,0,33,3,Sunday,Summer
+2025-03-17,Chia Seeds,98,421,292,0,0,24,3,Monday,Summer
+2025-03-18,Chia Seeds,96,325,262,0,0,32,3,Tuesday,Summer
+2025-03-19,Chia Seeds,95,230,314,0,0,33,3,Wednesday,Summer
+2025-03-20,Chia Seeds,114,778,350,1,0,24,3,Thursday,Summer
+2025-03-21,Chia Seeds,95,683,321,0,0,21,3,Friday,Summer
+2025-03-22,Chia Seeds,114,569,400,0,0,36,3,Saturday,Summer
+2025-03-23,Chia Seeds,102,467,372,0,0,36,3,Sunday,Summer
+2025-03-24,Chia Seeds,88,379,252,0,0,37,3,Monday,Summer
+2025-03-25,Chia Seeds,95,284,306,0,0,29,3,Tuesday,Summer
+2025-03-26,Chia Seeds,92,192,418,0,0,27,3,Wednesday,Summer
+2025-03-27,Chia Seeds,93,642,408,0,0,35,3,Thursday,Summer
+2025-03-28,Chia Seeds,120,522,364,1,0,35,3,Friday,Summer
+2025-03-29,Chia Seeds,107,415,373,0,0,19,3,Saturday,Summer
+2025-03-30,Chia Seeds,94,321,416,0,0,24,3,Sunday,Summer
+2025-03-31,Chia Seeds,91,230,343,0,0,29,3,Monday,Summer
+2025-04-01,Chia Seeds,120,769,274,1,0,33,4,Tuesday,Summer
+2025-04-02,Chia Seeds,93,676,415,0,0,32,4,Wednesday,Summer
+2025-04-03,Chia Seeds,94,582,311,0,0,34,4,Thursday,Summer
+2025-04-04,Chia Seeds,95,487,262,0,0,20,4,Friday,Summer
+2025-04-05,Chia Seeds,101,386,393,0,0,35,4,Saturday,Summer
+2025-04-06,Chia Seeds,136,250,384,1,0,32,4,Sunday,Summer
+2025-04-07,Chia Seeds,104,877,361,1,0,30,4,Monday,Summer
+2025-04-08,Chia Seeds,100,777,329,0,0,27,4,Tuesday,Summer
+2025-04-09,Chia Seeds,98,679,281,0,0,29,4,Wednesday,Summer
+2025-04-10,Chia Seeds,89,590,376,0,0,26,4,Thursday,Summer
+2025-04-11,Chia Seeds,102,488,384,0,0,26,4,Friday,Summer
+2025-04-12,Chia Seeds,117,371,399,1,0,21,4,Saturday,Summer
+2025-04-13,Chia Seeds,115,256,388,0,0,34,4,Sunday,Summer
+2025-04-14,Chia Seeds,92,164,412,0,0,33,4,Monday,Summer
+2025-04-15,Chia Seeds,90,814,361,0,0,33,4,Tuesday,Summer
+2025-04-16,Chia Seeds,93,721,365,0,0,30,4,Wednesday,Summer
+2025-04-17,Chia Seeds,96,625,386,0,0,29,4,Thursday,Summer
+2025-04-18,Chia Seeds,90,535,346,0,0,36,4,Friday,Summer
+2025-04-19,Chia Seeds,97,438,342,0,0,33,4,Saturday,Summer
+2025-04-20,Chia Seeds,136,302,388,1,0,20,4,Sunday,Summer
+2025-04-21,Chia Seeds,91,211,298,0,0,26,4,Monday,Summer
+2025-04-22,Chia Seeds,101,967,342,0,0,37,4,Tuesday,Summer
+2025-04-23,Chia Seeds,93,874,368,0,0,36,4,Wednesday,Summer
+2025-04-24,Chia Seeds,87,787,363,0,0,32,4,Thursday,Summer
+2025-04-25,Chia Seeds,91,696,358,0,0,32,4,Friday,Summer
+2025-04-26,Chia Seeds,105,591,273,0,0,33,4,Saturday,Summer
+2025-04-27,Chia Seeds,110,481,394,0,0,34,4,Sunday,Summer
+2025-04-28,Chia Seeds,124,357,396,1,0,19,4,Monday,Summer
+2025-04-29,Chia Seeds,119,238,287,1,0,20,4,Tuesday,Summer
+2025-04-30,Chia Seeds,114,947,273,1,0,37,4,Wednesday,Summer
+2025-05-01,Chia Seeds,118,829,407,1,0,36,5,Thursday,Summer
+2025-05-02,Chia Seeds,113,716,407,1,0,20,5,Friday,Summer
+2025-05-03,Chia Seeds,110,606,322,0,0,26,5,Saturday,Summer
+2025-05-04,Chia Seeds,111,495,340,0,0,25,5,Sunday,Summer
+2025-05-05,Chia Seeds,96,399,310,0,0,25,5,Monday,Summer
+2025-05-06,Chia Seeds,114,285,260,1,0,19,5,Tuesday,Summer
+2025-05-07,Chia Seeds,87,198,380,0,0,33,5,Wednesday,Summer
+2025-05-08,Chia Seeds,99,960,402,0,0,35,5,Thursday,Summer
+2025-05-09,Chia Seeds,94,866,272,0,0,37,5,Friday,Summer
+2025-05-10,Chia Seeds,113,753,379,0,0,31,5,Saturday,Summer
+2025-05-11,Chia Seeds,118,635,377,1,0,25,5,Sunday,Summer
+2025-05-12,Chia Seeds,99,536,270,0,0,27,5,Monday,Summer
+2025-05-13,Chia Seeds,90,446,278,0,0,26,5,Tuesday,Summer
+2025-05-14,Chia Seeds,90,356,333,0,0,25,5,Wednesday,Summer
+2025-05-15,Chia Seeds,110,246,270,1,0,31,5,Thursday,Summer
+2025-05-16,Chia Seeds,97,911,259,0,0,29,5,Friday,Summer
+2025-05-17,Chia Seeds,103,808,275,0,0,32,5,Saturday,Summer
+2025-05-18,Chia Seeds,101,707,325,0,0,36,5,Sunday,Summer
+2025-05-19,Chia Seeds,87,620,319,0,0,25,5,Monday,Summer
+2025-05-20,Chia Seeds,98,522,288,0,0,21,5,Tuesday,Summer
+2025-05-21,Chia Seeds,93,429,354,0,0,19,5,Wednesday,Summer
+2025-05-22,Chia Seeds,85,344,333,0,0,19,5,Thursday,Summer
+2025-05-23,Chia Seeds,94,250,315,0,0,26,5,Friday,Summer
+2025-05-24,Chia Seeds,116,898,342,0,0,34,5,Saturday,Summer
+2025-05-25,Chia Seeds,99,799,346,0,0,23,5,Sunday,Summer
+2025-05-26,Chia Seeds,93,706,399,0,0,30,5,Monday,Summer
+2025-05-27,Chia Seeds,99,607,324,0,0,20,5,Tuesday,Summer
+2025-05-28,Chia Seeds,88,519,325,0,0,31,5,Wednesday,Summer
+2025-05-29,Chia Seeds,94,425,387,0,0,36,5,Thursday,Summer
+2025-05-30,Chia Seeds,89,336,339,0,0,35,5,Friday,Summer
+2025-05-31,Chia Seeds,111,225,359,0,0,21,5,Saturday,Summer
+2025-06-01,Chia Seeds,93,941,396,0,0,33,6,Sunday,Monsoon
+2025-06-02,Chia Seeds,76,865,400,0,0,28,6,Monday,Monsoon
+2025-06-03,Chia Seeds,98,767,407,1,0,30,6,Tuesday,Monsoon
+2025-06-04,Chia Seeds,83,684,310,0,0,21,6,Wednesday,Monsoon
+2025-06-05,Chia Seeds,83,601,251,0,0,23,6,Thursday,Monsoon
+2025-06-06,Chia Seeds,94,507,335,1,0,22,6,Friday,Monsoon
+2025-06-07,Chia Seeds,91,416,404,0,0,27,6,Saturday,Monsoon
+2025-06-08,Chia Seeds,94,322,259,0,0,23,6,Sunday,Monsoon
+2025-06-09,Chia Seeds,79,243,371,0,0,23,6,Monday,Monsoon
+2025-06-10,Chia Seeds,82,161,312,0,0,32,6,Tuesday,Monsoon
+2025-06-11,Chia Seeds,77,706,381,0,0,25,6,Wednesday,Monsoon
+2025-06-12,Chia Seeds,96,610,348,1,0,27,6,Thursday,Monsoon
+2025-06-13,Chia Seeds,102,508,359,1,0,33,6,Friday,Monsoon
+2025-06-14,Chia Seeds,95,413,344,0,0,34,6,Saturday,Monsoon
+2025-06-15,Chia Seeds,114,299,344,1,0,36,6,Sunday,Monsoon
+2025-06-16,Chia Seeds,85,214,314,0,0,21,6,Monday,Monsoon
+2025-06-17,Chia Seeds,84,940,353,0,0,36,6,Tuesday,Monsoon
+2025-06-18,Chia Seeds,83,857,383,0,0,18,6,Wednesday,Monsoon
+2025-06-19,Chia Seeds,77,780,334,0,0,32,6,Thursday,Monsoon
+2025-06-20,Chia Seeds,83,697,332,0,0,27,6,Friday,Monsoon
+2025-06-21,Chia Seeds,115,582,266,1,0,27,6,Saturday,Monsoon
+2025-06-22,Chia Seeds,92,490,367,0,0,33,6,Sunday,Monsoon
+2025-06-23,Chia Seeds,82,408,329,0,0,28,6,Monday,Monsoon
+2025-06-24,Chia Seeds,85,323,284,0,0,18,6,Tuesday,Monsoon
+2025-06-25,Chia Seeds,108,215,339,1,0,31,6,Wednesday,Monsoon
+2025-06-26,Chia Seeds,75,998,312,0,0,19,6,Thursday,Monsoon
+2025-06-27,Chia Seeds,78,920,256,0,0,33,6,Friday,Monsoon
+2025-06-28,Chia Seeds,110,810,297,1,0,37,6,Saturday,Monsoon
+2025-06-29,Chia Seeds,101,709,261,0,0,27,6,Sunday,Monsoon
+2025-06-30,Chia Seeds,104,605,283,1,0,24,6,Monday,Monsoon
+2025-07-01,Chia Seeds,75,530,274,0,0,27,7,Tuesday,Monsoon
+2025-07-02,Chia Seeds,102,428,383,1,0,37,7,Wednesday,Monsoon
+2025-07-03,Chia Seeds,79,349,320,0,0,22,7,Thursday,Monsoon
+2025-07-04,Chia Seeds,80,269,267,0,0,20,7,Friday,Monsoon
+2025-07-05,Chia Seeds,90,179,273,0,0,19,7,Saturday,Monsoon
+2025-07-06,Chia Seeds,90,975,286,0,0,22,7,Sunday,Monsoon
+2025-07-07,Chia Seeds,96,879,373,1,0,35,7,Monday,Monsoon
+2025-07-08,Chia Seeds,78,801,410,0,0,33,7,Tuesday,Monsoon
+2025-07-09,Chia Seeds,82,719,384,0,0,25,7,Wednesday,Monsoon
+2025-07-10,Chia Seeds,82,637,375,0,0,29,7,Thursday,Monsoon
+2025-07-11,Chia Seeds,77,560,323,0,0,24,7,Friday,Monsoon
+2025-07-12,Chia Seeds,94,466,320,0,0,37,7,Saturday,Monsoon
+2025-07-13,Chia Seeds,116,350,278,1,0,27,7,Sunday,Monsoon
+2025-07-14,Chia Seeds,99,251,344,1,0,34,7,Monday,Monsoon
+2025-07-15,Chia Seeds,75,176,411,0,0,30,7,Tuesday,Monsoon
+2025-07-16,Chia Seeds,81,825,393,0,0,36,7,Wednesday,Monsoon
+2025-07-17,Chia Seeds,99,726,374,1,0,29,7,Thursday,Monsoon
+2025-07-18,Chia Seeds,100,626,269,1,0,35,7,Friday,Monsoon
+2025-07-19,Chia Seeds,90,536,286,0,0,29,7,Saturday,Monsoon
+2025-07-20,Chia Seeds,99,437,303,0,0,19,7,Sunday,Monsoon
+2025-07-21,Chia Seeds,81,356,355,0,0,26,7,Monday,Monsoon
+2025-07-22,Chia Seeds,80,276,296,0,0,22,7,Tuesday,Monsoon
+2025-07-23,Chia Seeds,80,196,287,0,0,36,7,Wednesday,Monsoon
+2025-07-24,Chia Seeds,77,997,336,0,0,27,7,Thursday,Monsoon
+2025-07-25,Chia Seeds,84,913,395,0,0,20,7,Friday,Monsoon
+2025-07-26,Chia Seeds,112,801,338,1,0,29,7,Saturday,Monsoon
+2025-07-27,Chia Seeds,93,708,321,0,0,26,7,Sunday,Monsoon
+2025-07-28,Chia Seeds,79,629,332,0,0,33,7,Monday,Monsoon
+2025-07-29,Chia Seeds,79,550,349,0,0,25,7,Tuesday,Monsoon
+2025-07-30,Chia Seeds,80,470,318,0,0,31,7,Wednesday,Monsoon
+2025-07-31,Chia Seeds,84,386,253,0,0,25,7,Thursday,Monsoon
+2025-08-01,Chia Seeds,75,311,363,0,0,28,8,Friday,Monsoon
+2025-08-02,Chia Seeds,89,222,280,0,0,33,8,Saturday,Monsoon
+2025-08-03,Chia Seeds,94,936,411,0,0,29,8,Sunday,Monsoon
+2025-08-04,Chia Seeds,100,836,322,1,0,27,8,Monday,Monsoon
+2025-08-05,Chia Seeds,80,756,396,0,0,28,8,Tuesday,Monsoon
+2025-08-06,Chia Seeds,104,652,308,1,0,33,8,Wednesday,Monsoon
+2025-08-07,Chia Seeds,80,572,414,0,0,21,8,Thursday,Monsoon
+2025-08-08,Chia Seeds,80,492,418,0,0,34,8,Friday,Monsoon
+2025-08-09,Chia Seeds,89,403,301,0,0,32,8,Saturday,Monsoon
+2025-08-10,Chia Seeds,85,318,291,0,0,28,8,Sunday,Monsoon
+2025-08-11,Chia Seeds,77,241,416,0,0,25,8,Monday,Monsoon
+2025-08-12,Chia Seeds,82,159,364,0,0,29,8,Tuesday,Monsoon
+2025-08-13,Chia Seeds,103,836,341,1,0,30,8,Wednesday,Monsoon
+2025-08-14,Chia Seeds,81,755,358,0,0,23,8,Thursday,Monsoon
+2025-08-15,Chia Seeds,92,663,364,1,0,26,8,Friday,Monsoon
+2025-08-16,Chia Seeds,96,567,401,0,0,33,8,Saturday,Monsoon
+2025-08-17,Chia Seeds,96,471,368,0,0,30,8,Sunday,Monsoon
+2025-08-18,Chia Seeds,96,375,383,1,0,24,8,Monday,Monsoon
+2025-08-19,Chia Seeds,76,299,287,0,0,18,8,Tuesday,Monsoon
+2025-08-20,Chia Seeds,77,222,309,0,0,37,8,Wednesday,Monsoon
+2025-08-21,Chia Seeds,104,841,418,1,0,20,8,Thursday,Monsoon
+2025-08-22,Chia Seeds,84,757,360,0,0,23,8,Friday,Monsoon
+2025-08-23,Chia Seeds,94,663,372,0,0,22,8,Saturday,Monsoon
+2025-08-24,Chia Seeds,88,575,260,0,0,25,8,Sunday,Monsoon
+2025-08-25,Chia Seeds,82,493,277,0,0,31,8,Monday,Monsoon
+2025-08-26,Chia Seeds,78,415,377,0,0,37,8,Tuesday,Monsoon
+2025-08-27,Chia Seeds,85,330,294,0,0,26,8,Wednesday,Monsoon
+2025-08-28,Chia Seeds,84,246,293,0,0,31,8,Thursday,Monsoon
+2025-08-29,Chia Seeds,82,164,391,0,0,18,8,Friday,Monsoon
+2025-08-30,Chia Seeds,91,627,376,0,0,36,8,Saturday,Monsoon
+2025-08-31,Chia Seeds,120,507,412,1,0,18,8,Sunday,Monsoon
+2025-09-01,Chia Seeds,81,426,289,0,0,34,9,Monday,Autumn
+2025-09-02,Chia Seeds,85,341,302,0,0,24,9,Tuesday,Autumn
+2025-09-03,Chia Seeds,77,264,383,0,0,18,9,Wednesday,Autumn
+2025-09-04,Chia Seeds,78,186,294,0,0,25,9,Thursday,Autumn
+2025-09-05,Chia Seeds,84,904,271,0,0,18,9,Friday,Autumn
+2025-09-06,Chia Seeds,96,808,273,0,0,32,9,Saturday,Autumn
+2025-09-07,Chia Seeds,90,718,320,0,0,25,9,Sunday,Autumn
+2025-09-08,Chia Seeds,84,634,325,0,0,21,9,Monday,Autumn
+2025-09-09,Chia Seeds,94,540,417,1,0,18,9,Tuesday,Autumn
+2025-09-10,Chia Seeds,97,443,270,1,0,18,9,Wednesday,Autumn
+2025-09-11,Chia Seeds,83,360,252,0,0,29,9,Thursday,Autumn
+2025-09-12,Chia Seeds,80,280,372,0,0,23,9,Friday,Autumn
+2025-09-13,Chia Seeds,88,192,401,0,0,34,9,Saturday,Autumn
+2025-09-14,Chia Seeds,116,614,320,1,0,27,9,Sunday,Autumn
+2025-09-15,Chia Seeds,83,531,270,0,0,35,9,Monday,Autumn
+2025-09-16,Chia Seeds,79,452,325,0,0,22,9,Tuesday,Autumn
+2025-09-17,Chia Seeds,84,368,257,0,0,26,9,Wednesday,Autumn
+2025-09-18,Chia Seeds,79,289,408,0,0,25,9,Thursday,Autumn
+2025-09-19,Chia Seeds,93,196,292,1,0,26,9,Friday,Autumn
+2025-09-20,Chia Seeds,90,639,302,0,0,37,9,Saturday,Autumn
+2025-09-21,Chia Seeds,87,552,279,0,0,28,9,Sunday,Autumn
+2025-09-22,Chia Seeds,78,474,287,0,0,33,9,Monday,Autumn
+2025-09-23,Chia Seeds,103,371,375,1,0,34,9,Tuesday,Autumn
+2025-09-24,Chia Seeds,84,287,264,0,0,27,9,Wednesday,Autumn
+2025-09-25,Chia Seeds,85,202,342,0,0,26,9,Thursday,Autumn
+2025-09-26,Chia Seeds,83,981,306,0,0,37,9,Friday,Autumn
+2025-09-27,Chia Seeds,92,889,382,0,0,28,9,Saturday,Autumn
+2025-09-28,Chia Seeds,116,773,381,1,0,19,9,Sunday,Autumn
+2025-09-29,Chia Seeds,76,697,398,0,0,23,9,Monday,Autumn
+2025-09-30,Chia Seeds,76,621,357,0,0,22,9,Tuesday,Autumn
+2025-10-01,Chia Seeds,110,511,331,0,1,36,10,Wednesday,Autumn
+2025-10-02,Chia Seeds,107,404,312,1,1,19,10,Thursday,Autumn
+2025-10-03,Chia Seeds,103,301,405,0,1,20,10,Friday,Autumn
+2025-10-04,Chia Seeds,119,182,294,0,1,28,10,Saturday,Autumn
+2025-10-05,Chia Seeds,110,853,314,0,1,20,10,Sunday,Autumn
+2025-10-06,Chia Seeds,127,726,392,1,1,26,10,Monday,Autumn
+2025-10-07,Chia Seeds,124,602,378,1,1,19,10,Tuesday,Autumn
+2025-10-08,Chia Seeds,138,464,276,1,1,32,10,Wednesday,Autumn
+2025-10-09,Chia Seeds,106,358,309,0,1,28,10,Thursday,Autumn
+2025-10-10,Chia Seeds,111,247,345,1,1,24,10,Friday,Autumn
+2025-10-11,Chia Seeds,122,915,415,0,1,30,10,Saturday,Autumn
+2025-10-12,Chia Seeds,122,793,360,0,1,30,10,Sunday,Autumn
+2025-10-13,Chia Seeds,105,688,347,0,1,22,10,Monday,Autumn
+2025-10-14,Chia Seeds,117,571,389,0,1,28,10,Tuesday,Autumn
+2025-10-15,Chia Seeds,105,466,411,0,1,21,10,Wednesday,Autumn
+2025-10-16,Chia Seeds,123,343,383,1,1,36,10,Thursday,Autumn
+2025-10-17,Chia Seeds,119,224,278,1,1,32,10,Friday,Autumn
+2025-10-18,Chia Seeds,129,598,259,0,1,32,10,Saturday,Autumn
+2025-10-19,Chia Seeds,114,484,280,0,1,27,10,Sunday,Autumn
+2025-10-20,Chia Seeds,113,371,336,0,1,37,10,Monday,Autumn
+2025-10-21,Chia Seeds,127,244,299,1,1,36,10,Tuesday,Autumn
+2025-10-22,Chia Seeds,102,931,350,0,1,24,10,Wednesday,Autumn
+2025-10-23,Chia Seeds,100,831,346,0,1,29,10,Thursday,Autumn
+2025-10-24,Chia Seeds,103,728,335,0,1,34,10,Friday,Autumn
+2025-10-25,Chia Seeds,119,609,325,0,1,20,10,Saturday,Autumn
+2025-10-26,Chia Seeds,134,475,357,1,1,22,10,Sunday,Autumn
+2025-10-27,Chia Seeds,110,365,356,0,1,25,10,Monday,Autumn
+2025-10-28,Chia Seeds,121,244,297,1,1,20,10,Tuesday,Autumn
+2025-10-29,Chia Seeds,120,991,293,1,1,22,10,Wednesday,Autumn
+2025-10-30,Chia Seeds,100,891,379,0,1,29,10,Thursday,Autumn
+2025-10-31,Chia Seeds,118,773,370,1,1,34,10,Friday,Autumn
+2025-11-01,Chia Seeds,121,652,323,0,1,25,11,Saturday,Autumn
+2025-11-02,Chia Seeds,112,540,370,0,1,28,11,Sunday,Autumn
+2025-11-03,Chia Seeds,102,438,272,0,1,31,11,Monday,Autumn
+2025-11-04,Chia Seeds,109,329,313,0,1,37,11,Tuesday,Autumn
+2025-11-05,Chia Seeds,98,231,332,0,1,19,11,Wednesday,Autumn
+2025-11-06,Chia Seeds,109,688,327,0,1,27,11,Thursday,Autumn
+2025-11-07,Chia Seeds,104,584,297,0,1,24,11,Friday,Autumn
+2025-11-08,Chia Seeds,131,453,326,1,1,31,11,Saturday,Autumn
+2025-11-09,Chia Seeds,153,300,303,1,1,29,11,Sunday,Autumn
+2025-11-10,Chia Seeds,107,193,254,0,1,26,11,Monday,Autumn
+2025-11-11,Chia Seeds,115,603,301,0,1,37,11,Tuesday,Autumn
+2025-11-12,Chia Seeds,112,491,272,0,1,27,11,Wednesday,Autumn
+2025-11-13,Chia Seeds,97,394,345,0,1,22,11,Thursday,Autumn
+2025-11-14,Chia Seeds,113,281,269,0,1,33,11,Friday,Autumn
+2025-11-15,Chia Seeds,110,171,250,0,1,36,11,Saturday,Autumn
+2025-11-16,Chia Seeds,114,644,367,0,1,31,11,Sunday,Autumn
+2025-11-17,Chia Seeds,113,531,283,0,1,33,11,Monday,Autumn
+2025-11-18,Chia Seeds,111,420,404,0,1,31,11,Tuesday,Autumn
+2025-11-19,Chia Seeds,106,314,293,0,1,37,11,Wednesday,Autumn
+2025-11-20,Chia Seeds,109,205,416,0,1,23,11,Thursday,Autumn
+2025-11-21,Chia Seeds,131,909,287,1,1,27,11,Friday,Autumn
+2025-11-22,Chia Seeds,108,801,325,0,1,23,11,Saturday,Autumn
+2025-11-23,Chia Seeds,120,681,326,0,1,25,11,Sunday,Autumn
+2025-11-24,Chia Seeds,110,571,349,0,1,19,11,Monday,Autumn
+2025-11-25,Chia Seeds,98,473,419,0,1,35,11,Tuesday,Autumn
+2025-11-26,Chia Seeds,125,348,394,1,1,26,11,Wednesday,Autumn
+2025-11-27,Chia Seeds,111,237,368,0,1,22,11,Thursday,Autumn
+2025-11-28,Chia Seeds,112,670,275,0,1,25,11,Friday,Autumn
+2025-11-29,Chia Seeds,123,547,312,0,1,25,11,Saturday,Autumn
+2025-11-30,Chia Seeds,106,441,382,0,1,24,11,Sunday,Autumn
+2025-12-01,Chia Seeds,107,334,308,1,0,32,12,Monday,Winter
+2025-12-02,Chia Seeds,75,259,358,0,0,27,12,Tuesday,Winter
+2025-12-03,Chia Seeds,96,163,369,1,0,23,12,Wednesday,Winter
+2025-12-04,Chia Seeds,83,891,392,0,0,21,12,Thursday,Winter
+2025-12-05,Chia Seeds,76,815,344,0,0,29,12,Friday,Winter
+2025-12-06,Chia Seeds,97,718,327,0,0,18,12,Saturday,Winter
+2025-12-07,Chia Seeds,97,621,379,0,0,30,12,Sunday,Winter
+2025-12-08,Chia Seeds,78,543,333,0,0,35,12,Monday,Winter
+2025-12-09,Chia Seeds,85,458,327,0,0,25,12,Tuesday,Winter
+2025-12-10,Chia Seeds,80,378,275,0,0,35,12,Wednesday,Winter
+2025-12-11,Chia Seeds,82,296,263,0,0,23,12,Thursday,Winter
+2025-12-12,Chia Seeds,82,214,344,0,0,34,12,Friday,Winter
+2025-12-13,Chia Seeds,114,839,262,1,0,36,12,Saturday,Winter
+2025-12-14,Chia Seeds,95,744,274,0,0,33,12,Sunday,Winter
+2025-12-15,Chia Seeds,85,659,336,0,0,31,12,Monday,Winter
+2025-12-16,Chia Seeds,81,578,375,0,0,28,12,Tuesday,Winter
+2025-12-17,Chia Seeds,78,500,352,0,0,19,12,Wednesday,Winter
+2025-12-18,Chia Seeds,80,420,377,0,0,35,12,Thursday,Winter
+2025-12-19,Chia Seeds,82,338,257,0,0,25,12,Friday,Winter
+2025-12-20,Chia Seeds,93,245,306,0,0,20,12,Saturday,Winter
+2025-12-21,Chia Seeds,118,977,335,1,0,22,12,Sunday,Winter
+2025-12-22,Chia Seeds,99,878,311,1,0,19,12,Monday,Winter
+2025-12-23,Chia Seeds,79,799,317,0,0,19,12,Tuesday,Winter
+2025-12-24,Chia Seeds,79,720,336,0,0,32,12,Wednesday,Winter
+2025-12-25,Chia Seeds,83,637,356,0,0,34,12,Thursday,Winter
+2025-12-26,Chia Seeds,81,556,415,0,0,28,12,Friday,Winter
+2025-12-27,Chia Seeds,89,467,303,0,0,37,12,Saturday,Winter
+2025-12-28,Chia Seeds,86,381,326,0,0,24,12,Sunday,Winter
+2025-12-29,Chia Seeds,85,296,369,0,0,33,12,Monday,Winter
+2025-12-30,Chia Seeds,77,219,345,0,0,35,12,Tuesday,Winter
+2025-12-31,Chia Seeds,77,705,378,0,0,36,12,Wednesday,Winter
